@@ -67,12 +67,7 @@ Node‑Network‑Theory/
 │       └── 11‑参考文献、作者简介、版权声明.md
 ├── README.md
 └── LICENSE
-```
 
-📖阅读入口：
-
-- 一次性通读全文：**[doc/full/Node‑Network‑Theory‑Full.md](./doc/full/Node%E2%80%91Network%E2%80%91Theory%E2%80%91Full.md)**
-- 按章节查阅：进入 [doc/chapters](./doc/chapters)
 
 > 说明：`full`目录文件由分章节内容拼接生成；如两处文本出现出入，请以 chapters 下分章节源文件为准。
 
