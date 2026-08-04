@@ -1,60 +1,101 @@
-Node‑Network‑Theory (N2T)
-    节点网络理论：由 IT 工程师提出，面向物理、生命、社会的统一分层建模理论
-本作品采用知识共享署名‑相同方式共享 4.0 国际许可协议进行许可。
-项目简介
+本作品采用**知识共享署名‑相同方式共享 4.0 国际许可协议**进行许可。
+
+---
+
+## 项目简介
+
 这是一份思想探索文稿，起源于信息系统工程实践。
+
 最初为解决软件业务的数据孤岛问题，构建基于「节点‑边」的通用信息元模型；在理论提炼过程中，发现该元模型具备向外延伸，解释宇宙演化的潜力，进一步向上推演生命自复制单元、智能、社会组织的涌现规律。
 
-    ⚠️ 本仓库不含可运行程序代码，全部为 Markdown 格式理论文稿、概念定义、推演章节，属于思想假说，尚未经过严格实验验证。
+> ⚠️ 本仓库**不含可运行程序代码**，全部为 Markdown 格式理论文稿、概念定义、推演章节，属于思想假说，尚未经过严格实验验证。
 
-核心构件
+### 核心构件
 
-    N2T 节点网络基底
+1. **N2T 节点网络基底**
+    
     以节点与相互作用关系作为底层基本单元，推演宇宙演化路径，追求万物同源的解释视角。
-    六层通用建模范式
+    
+2. **六层通用建模范式**
+    
 
-    部件层｜架构层｜机制层｜事务层｜事件层｜信息层
+> 部件层｜架构层｜机制层｜事务层｜事件层｜信息层
 
 既可描述无主观目标、依靠内外力被动平衡的普通物理对象；
-也可以描述具备环境识别、主动维持自身存续的系统对象：生命、人工智能、企业、国家等复杂组织。
 
-    自复制单元作为关键跃迁点
+也可以描述具备环境识别、主动维持自身存续的**系统对象**：生命、人工智能、企业、国家等复杂组织。
+
+3. **自复制单元作为关键跃迁点**
+    
     宇宙演化中，可自我复制对象的涌现，是从单纯物理客体过渡到生命系统的临界环节。
+    
     从化学复制子，到生命遗传编码，再到人造计算系统，对比不同载体下二元配对的构造逻辑。
 
-思想脉络
+## 思想脉络
 
-    落地验证层：统一信息模型
+1. **落地验证层：统一信息模型**
+    
     用于软件、设备、企业业务数据的解析，已经在工程实践中做过验证，相关工程实现不在本文档范围内。
-    拓展推演层：解析万事万物
+2. **拓展推演层：解析万事万物**
+    
     把元模型向外迁移，对现实世界各类现象做统一解析。
-    终极探索层：节点网络宇宙模型
+3. **终极探索层：节点网络宇宙模型**
+    
     将元模型延伸至宇宙早期演化，尝试搭建一套跨物理、生命、社会的统一知识框架。
 
-仓库目录结构
+## 仓库目录结构
 
+plaintext
+
+```
 Node‑Network‑Theory/
 ├── doc/
-│   └── Node‑Network‑Theory‑Full.md   # 全部正文在此
-├── README.md               # 本说明文件
-└── LICENSE                 # CC BY‑SA 4.0许可协议
+│   ├── full/
+│   │   ├── 从三个参数到一个宇宙：基于工程认知的物理底层重构.md
+│   │   └── Node‑Network‑Theory‑Full.md      
+│   └── chapters/                            
+│       ├── 01‑摘要、引言.md
+│       ├── 02‑背景与思想脉络、核心观点.md
+│       ├── 03‑推导过程.md
+│       ├── 04‑一些物理现象的详细解释.md
+│       ├── 05‑推导汇总：20+个物理量推导与各层级特性涌现.md
+│       ├── 06‑尚未解决的问题.md
+│       ├── 07‑定量验证：框架的两个关键计算.md
+│       ├── 08‑可验证的观察.md
+│       ├── 09‑所有对象统一建模.md
+│       ├── 10‑结论与展望.md
+│       └── 11‑参考文献、作者简介、版权声明.md
+├── README.md
+└── LICENSE
+```
 
-当前版本
+📖阅读入口：
 
-    v0.1.0 初稿：完成基础概念、N2T 基底、六层模型、自复制系统涌现完整章节。
+- 一次性通读全文：**[doc/full/Node‑Network‑Theory‑Full.md](./doc/full/Node%E2%80%91Network%E2%80%91Theory%E2%80%91Full.md)**
+- 按章节查阅：进入 [doc/chapters](./doc/chapters)
 
-    理论仍在迭代，部分猜想缺少严格数学证明，欢迎逻辑层面的讨论、指正。
+> 说明：`full`目录文件由分章节内容拼接生成；如两处文本出现出入，请以 chapters 下分章节源文件为准。
 
-如何参与
+## 当前版本
 
-    可以直接 Fork，用于个人学习、衍生改写，遵守 CC BY‑SA 4.0 协议：署名原作者，衍生作品保持相同协议开放。
-    Issue 欢迎提出逻辑漏洞、概念歧义、表述优化建议；不接受无依据的纯粹立场辩论。
-    不接收大篇幅新理论内容合并，本仓库保持作者主线版本。
+- v0.1.0 初稿：完成基础概念、N2T 基底、六层模型、自复制系统涌现完整章节。
 
-作者信息
+> 理论仍在迭代，部分猜想缺少严格数学证明，欢迎逻辑层面的讨论、指正。
+
+## 如何参与
+
+1. 可以直接 Fork，用于个人学习、衍生改写，遵守 CC BY‑SA 4.0 协议：**署名原作者，衍生作品保持相同协议开放**。
+2. Issue 欢迎提出逻辑漏洞、概念歧义、表述优化建议；不接受无依据的纯粹立场辩论。
+3. 不接收大篇幅新理论内容合并，本仓库保持作者主线版本。
+
+## 作者信息
+
 Author：村长
 
-    源自一名 IT 工程师长期的思想探索，初衷希望寻找一套可以融合多领域知识的统一框架。
+> 源自一名 IT 工程师长期的思想探索，初衷希望寻找一套可以融合多领域知识的统一框架。
 
-    英文简短摘要（供检索）
-    Node‑Network‑Theory (N2T): A hierarchical unified modeling hypothesis originated from information‑system engineering. It explores cosmic evolution, self‑replication emergence, life‑intelligence and social organizations by node‑edge primitive and six‑layer analysis framework. No executable source code, only theoretical manuscripts.
+---
+
+> 英文简短摘要
+> 
+> Node‑Network‑Theory (N2T): A hierarchical unified modeling hypothesis originated from information‑system engineering. It explores cosmic evolution, self‑replication emergence, life‑intelligence and social organizations by node‑edge primitive and six‑layer analysis framework. No executable source code, only theoretical manuscripts.
