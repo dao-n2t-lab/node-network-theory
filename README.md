@@ -83,6 +83,5 @@ Author：村长
 
 ---
 
-> 英文简短摘要
-> 
-> Node‑Network‑Theory (N2T): A hierarchical unified modeling hypothesis originated from information‑system engineering. It explores cosmic evolution, self‑replication emergence, life‑intelligence and social organizations by node‑edge primitive and six‑layer analysis framework. No executable source code, only theoretical manuscripts.
+> 英文摘要
+Node‑Network‑Theory<wbr> (N2T): A hierarchical unified modeling hypothesis originated from information‑system<wbr> engineering. It explores cosmic evolution, self‑replication<wbr> emergence, life‑intelligence<wbr> and social organizations by node‑edge<wbr> primitive and six‑layer<wbr> analysis framework. No executable source code, only theoretical manuscripts.
