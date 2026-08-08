@@ -32,6 +32,21 @@ It can describe both physical objects in the universe and system objects with en
 
 In cosmic evolution, the emergence of self‑replicating units serves as the critical threshold from mere physical objects to living systems. It covers chemical replicators, biological genetic codes, and man‑made computing systems.
 
+## Directory Settings
+~~~
+├─ README.md # 中文首页简介 
+├─ README-en.md # English Home Page Introduction 
+├─ docs/ # 中文正文 
+│ ├─ full/ # 正文全文 
+│ ├─ chapter/ # 正文章节 
+│ └─ articles/ # 独立专题文章 
+├─ docs‑en/ # English Translation Table of Contents 
+│ ├─ full/ # Full Text 
+│ ├─ chapter/ # Main Article Section 
+│ └─ articles/ # Independent Special Articles 
+├─ 节点网络理论（Node-Network Theory, N2T）.pdf  # PDF版全文
+~~~
+
 ## Current Version
 
 **v0.1.1 Initial Draft**: Complete chapters covering basic concepts, N2T substrate, six‑layer model, and emergence of self‑replicating systems.

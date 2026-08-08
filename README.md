@@ -28,6 +28,21 @@
 3. **自复制单元的跃迁**  
     宇宙演化中，可自我复制对象的涌现，是从单纯物理客体过渡到生命系统的临界环节。从化学复制子，到生命遗传编码，再到人造计算系统。
 
+## 目录设置
+~~~
+├─ README.md # 中文首页简介 
+├─ README-en.md # 英文首页简介 
+├─ docs/ # 中文正文 
+│ ├─ full/ # 正文全文 
+│ ├─ chapter/ # 正文章节 
+│ └─ articles/ # 独立专题文章 
+├─ docs‑en/ # English Translation Table of Contents 
+│ ├─ full/ # Full Text 
+│ ├─ chapter/ # Main Article Section 
+│ └─ articles/ # Independent Special Articles 
+├─ 节点网络理论（Node-Network Theory, N2T）.pdf  # PDF版全文
+~~~
+
 ## 当前版本
 
 - v0.1.1 初稿：完成基础概念、N2T 基底、六层模型、自复制系统涌现完整章节。
