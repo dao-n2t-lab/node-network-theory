@@ -48,7 +48,7 @@ The theory is still under iteration. Some conjectures lack rigorous mathematical
 
 ## Author Information
 
-**Cunzhang**: System Analyst, Software Designer, Senior Network Architect with thirty‑year working experience.
+**Cunzhang**: System Analyst, Software Designer, Senior Network Architect.
 
 ‑ 2026‑07‑01: Conception and drafting  
 ‑ 2026‑08‑01: Completion of basic content
