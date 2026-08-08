@@ -6,6 +6,8 @@ This work is licensed under a Creative Commons Attribution‑ShareAlike 4.0 Inte
 
 This project is a thought experiment on how the universe came into being. It proposes a minimalist physical model based on "nodes + edges" (Node Network Theory, N2T). Adopting very few parameters (number of nodes, node spacing, node frequency), the model attempts to deduce the universe.
 
+>Within this "minimalism" lies the seed for the emergence of "complexity."
+
 The evolutionary process of the universe can be summarized as:  
 Universe initialization → Formation of matter → Emergence of life → Understanding the universe → Building models → Simulating the universe
 
