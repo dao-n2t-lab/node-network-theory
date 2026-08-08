@@ -36,7 +36,7 @@
 
 ## 如何参与
 
-1. 可以直接 Fork，用于个人学习、衍生改写，遵守 CC BY‑SA 4.0 协议：署名原作者：村长 – https://github.com/dao-n2t-lab/node-network-theory/ ，衍生作品保持相同协议开放。
+1. 可以直接 Fork，用于个人学习、衍生改写，遵守 CC BY‑SA 4.0 协议。使用本作品时，署名原作者：村长 – https://github.com/dao-n2t-lab/node-network-theory/ ，衍生作品保持相同协议开放。
 2. Issue 欢迎提出逻辑漏洞、概念歧义、表述优化建议；不接受无依据的纯粹立场辩论。
 3. 不接收大篇幅新理论内容合并，本仓库保持作者主线版本。
 
