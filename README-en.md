@@ -38,15 +38,15 @@ In cosmic evolution, the emergence of self‑replicating units serves as the cri
 ~~~
 ├─ README.md # 中文首页简介 
 ├─ README-en.md # English Home Page Introduction 
-├─ docs/ # 中文正文 
-│ ├─ full/ # 正文全文 
-│ ├─ chapter/ # 正文章节 
+├─ docs/ # 文章 
+│ ├─ full/ # 主文全文 
+│ ├─ chapter/ # 主文章节 
 │ └─ articles/ # 独立专题文章 
 ├─ docs‑en/ # English Translation Table of Contents 
 │ ├─ full/ # Full Text 
 │ ├─ chapter/ # Main Article Section 
 │ └─ articles/ # Independent Special Articles 
-├─ 节点网络理论（Node-Network Theory, N2T）.pdf  # PDF版全文
+└─ 节点网络理论（Node-Network Theory, N2T）.pdf  # PDF版全文
 ~~~
 
 ## Current Version

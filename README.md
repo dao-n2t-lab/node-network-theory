@@ -34,15 +34,33 @@
 ~~~
 ├─ README.md # 中文首页简介 
 ├─ README-en.md # 英文首页简介 
-├─ docs/ # 中文正文 
-│ ├─ full/ # 正文全文 
-│ ├─ chapter/ # 正文章节 
+├─ docs/ # 文章 
+│ ├─ full/ # 主文全文 
+│ │ └─ 节点网络理论（Node-Network Theory, N2T）.md
+│ ├─ chapter/ # 主文章节
+│ │ ├─ 01_引言.md 
+│ │ ├─ 02_背景与思想脉络.md 
+│ │ ├─ 03_核心观点.md 
+│ │ ├─ 04_推导过程.md 
+│ │ ├─ 05_推导汇总_20+个物理量推导与各层级特性涌现.md 
+│ │ ├─ 06_尚未解决的问题.md 
+│ │ ├─ 07_定量验证_框架的两个关键计算.md 
+│ │ ├─ 08_可验证的观察.md 
+│ │ ├─ 09_所有对象统一建模.md 
+│ │ └─ 10_结论与展望.md
 │ └─ articles/ # 独立专题文章 
+│ │ ├─ N2T原子物理：主量子数与径向驻波模式.md 
+│ │ ├─ N2T原子物理：原子核结构的节点网络模型.md 
+│ │ ├─ N2T原子物理：电子壳层频率可调节范围及其影响.md
+│ │ ├─ N2T原子物理：电子轨道形状的几何起源.md
+│ │ ├─ N2T原子物理：自旋与泡利不相容原理的几何起源.md
+│ │ ├─ N2T宇宙学：宇宙周期的节点网络解释.md
+│ │ └─ ......
 ├─ docs‑en/ # English Translation Table of Contents 
 │ ├─ full/ # Full Text 
 │ ├─ chapter/ # Main Article Section 
 │ └─ articles/ # Independent Special Articles 
-├─ 节点网络理论（Node-Network Theory, N2T）.pdf  # PDF版全文
+└─ 节点网络理论（Node-Network Theory, N2T）.pdf  # PDF版全文
 ~~~
 
 ## 当前版本
