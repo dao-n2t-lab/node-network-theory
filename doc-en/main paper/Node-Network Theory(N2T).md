@@ -774,6 +774,18 @@ For genuine complex systems, attributes across all six layers are reversed:
 
 Operations across all layers serve one overarching objective: sustaining continuous existence, stability and further continuation of the whole system.
 
+#### Full Lifecycle Management Algorithm</h3> 
+
+For a complete complex system, its full lifecycle management algorithm works as follows: start full lifecycle analysis from the core functional components of the system; sort out all auxiliary affairs generated during the analysis process, and perform full lifecycle analysis on these auxiliary affairs recursively until all relevant affairs within the system are covered (analysis boundaries shall be defined and external stakeholders identified), so as to complete the full lifecycle analysis of the entire system.
+
+In this framework, the system undertakes external management over component lifecycles, including planning, design/selection, procurement/construction, integration and commissioning, operation & maintenance interfaces (monitoring, upgrade, replacement), decommissioning and disposal, while individual components execute internal operations for their own lifecycle management. The operation of each component, in turn, requires external lifecycle governance over its subordinate sub-components. The lifecycle phases of a system emerge intrinsically from its internal structure, rather than being merely defined by externally assigned roles or administrative intentions.
+
+The logic of full lifecycle management implicitly governs daily work and real-life scenarios. For instance, national transportation infrastructure planning and construction correspond to work at the architecture layer of a system; sorting and optimizing enterprise business processes fall within the transaction layer; household furniture procurement represents matching design between sub-component layers and human demands. Activities across all these layers inherently follow full lifecycle reasoning.
+
+This algorithm traces the root cause of every entity within a system and evaluates its sustainable value, with broad applications covering system design, assessment, optimization and game-theoretic analysis.
+
+This paper does not elaborate further on this topic.
+
 ## 10 Conclusions and Outlook
 
 ### 10.1 Summary: From Three Parameters to One Universe
