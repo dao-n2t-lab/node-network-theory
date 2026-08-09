@@ -843,8 +843,3 @@ Cunzhang: Systems Analyst, Software Designer, Senior Network Architect. Research
 
 This work is licensed under the Creative Commons Attribution‑ShareAlike 4.0 International License (CC BY‑SA 4.0). When re‑using this work, please provide attribution: Cunzhang – http://114.55.33.140/archives/1122
 
-## Revision History
-
-- 2026‑07‑01: Initial draft started.
-- 2026‑08‑01: Completion of the main content.
-- Ongoing optimization…
