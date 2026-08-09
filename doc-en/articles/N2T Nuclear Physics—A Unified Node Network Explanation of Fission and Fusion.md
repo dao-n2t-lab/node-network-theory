@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In standard nuclear physics, fission (the splitting of heavy nuclei into lighter ones) and fusion (the merging of light nuclei into heavier ones) are described as two opposite nuclear reaction processes, each releasing energy. In the N2T framework, fission and fusion are reinterpreted as: two directional processes by which the atomic nucleus node network releases stress through different paths, driven by stress balance.
 
 This article presents the N2T framework's geometric explanation of fission and fusion from five perspectives: the unified mechanism of fission and fusion, the node network explanation of fission, the node network explanation of fusion, the geometric origin of energy release, and the correspondence with standard nuclear physics.

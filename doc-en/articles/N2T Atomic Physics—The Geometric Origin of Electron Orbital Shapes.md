@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In standard quantum mechanics, the shapes of electron orbitals (s, p, d, f) are given by solutions to the Schrödinger equation, and the number of angular nodal surfaces is a mathematical feature of the wavefunction. In the N2T framework, these orbital shapes are reinterpreted as: the projections of standing-wave modes on the hexagonal grid of the atomic shell layer in three-dimensional space.
 
 This article presents the N2T framework's geometric explanation of electron orbital shapes from four perspectives: the structure of the shell-layer node network, the geometric meaning of angular nodal surfaces, the standing-wave modes of s/p/d/f orbitals, and the correspondence with standard quantum mechanics.

@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In the N2T framework, life is not an "accidental byproduct" of the universe, but rather an active regulatory mode that naturally emerges when the node network evolves to a certain level of complexity. When life evolves to the point of being able to control all matter in the universe, the universe itself will undergo a fundamental transformation—from a "passively stress-responsive physical network" to an "actively stress-managing cognitive network."
 
 This article presents the N2T framework's unified explanation of the relationship between life and the universe from four perspectives: the node-network definition of life, the unifying mechanism of life and the universe, the possible evolutionary directions after civilization gains control of the universe, and the philosophical implications of this picture.

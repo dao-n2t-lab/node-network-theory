@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In the N2T framework, mass is not an intrinsic property of nodes, and gravity is not an independent force—they are both different manifestations of the spatial distribution of node density. This article presents the N2T framework's complete answer to the "mass-gravity" problem from three perspectives: the definition of mass, the geometrization of gravity, and their unified relationship in the node network.
 
 ## Table of Contents

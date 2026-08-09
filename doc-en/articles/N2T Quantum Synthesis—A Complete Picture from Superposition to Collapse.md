@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In the N2T framework, the core concepts of quantum mechanics—superposition, entanglement, decoherence, measurement, and collapse—are not independent "mysterious phenomena" but a unified chain of continuous changes in the phase evolution of the node network. This article integrates them into a complete evolutionary path, presenting a full picture from the quantum to the classical.
 
 ## Table of Contents

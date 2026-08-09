@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In standard quantum mechanics, spin is the intrinsic angular momentum of a particle, and the Pauli exclusion principle is an independent postulate—it prohibits two electrons from occupying the same quantum state. In the N2T framework, spin and the Pauli exclusion principle are reinterpreted as: the topological phase of closed loops, and the geometric constraint that fermion rings cannot superimpose on shared nodes.
 
 This article presents the N2T framework's geometric explanation of spin and the exclusion principle from four perspectives: the geometric definition of spin, the topological distinction between fermions and bosons, the node network explanation of the Pauli exclusion principle, and the correspondence with standard quantum mechanics.

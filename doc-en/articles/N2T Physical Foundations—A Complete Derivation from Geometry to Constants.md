@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In standard physics, constants such as $c$，$h$，$G$，$\alpha$，and $e$ are regarded as independent fundamental parameters that require experimental determination. In the N2T framework, they are all emergent quantities—naturally derived from three underlying presupposed parameters and the geometric constraints of the node network.
 
 This article presents a complete derivation chain from geometry to constants, demonstrating how the N2T framework generates multiple constants that require independent presupposition in standard physics from very few underlying assumptions.

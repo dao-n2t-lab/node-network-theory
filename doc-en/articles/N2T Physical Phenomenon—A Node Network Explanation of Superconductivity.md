@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In standard physics, superconductivity is the phenomenon in which certain materials exhibit zero electrical resistance and complete diamagnetism at low temperatures. In this framework, superconductivity is reduced to: electron standing waves in the node network establishing global phase locking through the lattice node network—all electron standing waves participating in superconductivity form a giant standing-wave network covering the entire material, in which traveling waves propagate without scattering or dissipation.
 
 This article presents the N2T framework's geometric explanation of superconductivity from three perspectives: the principle of superconducting formation, the conditions for formation, and research directions.

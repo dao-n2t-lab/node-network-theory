@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In standard quantum mechanics, decoherence describes the process by which a system evolves from a quantum superposition state to a classical mixed state—coherence is gradually lost as the system couples with its environment. In the N2T framework, decoherence is reinterpreted as: phase coupling between the system's node network and an external node network, which randomizes the relative phase differences within the system, leading to irreversible loss of coherence.
 
 This article presents the N2T framework's geometric explanation of decoherence from five perspectives: the geometric definition of coherence, the node network mechanism of decoherence, the geometric origin of irreversibility, the relationship between decoherence and measurement, and the correspondence with standard quantum mechanics.

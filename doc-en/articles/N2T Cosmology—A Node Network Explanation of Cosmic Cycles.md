@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In standard cosmology, the evolution of the universe is usually described as beginning with the Big Bang, undergoing accelerating expansion, and eventually ending in heat death or the Big Rip. In the N2T framework, the evolution of the universe is reinterpreted as: a periodic cycle of stress concentration and release in the node network.
 
 This article presents the N2T framework's complete explanation of the cyclical evolution of the universe from multiple perspectives: the expansion-contraction cycle, the driving forces of stress concentration and release, the energy source of the cosmic cycle, and observational correspondences.

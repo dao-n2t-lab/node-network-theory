@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In the N2T framework, the principal quantum number $n$ is not an abstract mathematical parameter, but the standing-wave order of the shell-layer node network in the radial direction. It determines the number of nodal surfaces in the radial direction, the energy level, and the spatial extent of the electron cloud.
 
 This article presents the N2T framework's geometric explanation of the principal quantum number from four perspectives: the definition of radial nodal surfaces, the conditions for forming radial standing-wave modes, the correspondence with standard quantum mechanics, and the relationship between radial standing waves and energy levels.

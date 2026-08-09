@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 This article is the comprehensive installment of the N2T physical phenomenon explanation series. It integrates the contents of the previous articles—the three states of matter, liquid networks, atmospheric electrical phenomena, propulsion principles, cosmic structure, and the direction of time—into a unified picture, presenting a complete evolutionary chain from nodes to the universe.
 
 ## Table of Contents

@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In the N2T framework, a liquid is defined as a network state in which node clusters maintain fluidity through continuous "breaking-reforming" of edge connections. This article presents the unified explanation of liquid networks in the framework from two aspects: internal behaviors (flow, viscosity) and boundary behaviors (surface tension, capillarity, wettability, evaporation/boiling, vacuum response).
 
 ## Table of Contents

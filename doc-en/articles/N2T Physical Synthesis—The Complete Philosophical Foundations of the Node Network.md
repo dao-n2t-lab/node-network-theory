@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 After the complete derivation of the N2T framework from elementary particles to the universe, we need to answer a more fundamental question: What are the philosophical foundations of this framework? What presuppositions is it built upon? How does it understand "existence," "knowledge," and "explanation"?
 
 This article articulates the complete philosophical foundations of the node network from five perspectives: the N2T framework's ontology, epistemology, methodology, relationship with existing physical theories, and the framework's limitations.

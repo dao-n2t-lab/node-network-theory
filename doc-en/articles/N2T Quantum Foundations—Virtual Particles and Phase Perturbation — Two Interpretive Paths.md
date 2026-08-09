@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In standard quantum field theory, the interaction between two charged particles is described by the exchange of "virtual particles." In the N2T framework, the same phenomenon is reinterpreted as the direct transmission of phase differences and stresses along the edges of the node network, without the need to introduce unobservable intermediate entities.
 
 This article starts from the phenomenon, compares the two interpretive paths of the standard model and the N2T framework, and demonstrates how the N2T framework describes interactions without introducing virtual particles.

@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In standard physics, the fine-structure constant $\alpha \approx 1/137.036$ is a dimensionless constant determined by experiment, and the standard model cannot explain why it has precisely this value. In the N2T framework, $\alpha$ is reinterpreted as: the coupling ratio between the charge mode and the spin mode of standing-wave modes on a hexagonal loop in three-dimensional space.
 
 This article presents the N2T framework's complete geometric explanation of the fine-structure constant from four perspectives: the geometry of the hexagonal loop, the derivation of $\alpha$，the critical condition for hydrogen atom stability, and the correspondence with the three-dimensional structure of the node network.

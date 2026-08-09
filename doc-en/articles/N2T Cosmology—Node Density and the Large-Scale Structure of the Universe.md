@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In the N2T framework, the large-scale structure of the universe—galaxies, galaxy clusters, superclusters, the cosmic web, and voids—is not the result of gravitational instability acting independently, but the non-uniform distribution of node density across cosmic scales.
 
 This article presents the N2T framework's unified explanation of the large-scale structure of the universe from four perspectives: node density fluctuations, structure formation, the origin of the cosmic web and voids, and the correspondence with standard cosmology.

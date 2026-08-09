@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In standard cosmology, dark energy is interpreted as a uniformly distributed form of energy with negative pressure, driving the accelerated expansion of the universe. In the N2T framework, dark energy is reinterpreted as: the global residual strain that the node network cannot completely eliminate during the stress minimization process.
 
 This article presents the N2T framework's complete geometric explanation of dark energy from four perspectives: the origin of residual strain, the macroscopic manifestation of dark energy, the comparison with the standard model, and the unified relationship with cosmic expansion.

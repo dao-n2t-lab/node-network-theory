@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In the N2T framework, quantum mechanics and cosmology are no longer two domains that require independent explanations—they share the same set of node network mechanisms: superposition, entanglement, decoherence, measurement, and collapse manifest as quantum behavior at microscopic scales; node density fluctuations, stress gradients, residual strain, and cosmic cycles manifest as cosmic structures at macroscopic scales. This article integrates them into a complete evolutionary chain from the quantum to the cosmos.
 
 ## Table of Contents

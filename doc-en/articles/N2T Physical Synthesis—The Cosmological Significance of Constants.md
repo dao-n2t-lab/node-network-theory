@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In the N2T framework, $c$，$h$，$G$，$\alpha$，and $e$ are not independently presupposed constants, but geometric quantities emerging from the three underlying parameters of the node network ($N_0$，$d_0$，$\omega_0$). This article further asks: what roles do these constants play in cosmic evolution? Do they correspond to key nodes such as structure formation, phase transitions, and stability?
 
 We analyze each of the five constants individually, then synthesize their alignment with the stages of cosmic evolution.

@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In standard physics, the "unidirectionality" of time (the arrow of time) is usually provided by the second law of thermodynamics—the direction of entropy increase defines the flow of time. In the N2T framework, time is reinterpreted as: the statistical direction of changes in the node network state, determined by the directionality of the global stress minimization process.
 
 This article presents the N2T framework's geometric explanation of the concept of "time" from four perspectives: the essential definition of time, the origin of the arrow of time, the relationship between time and changes in the network state, and the relativity and directionality of time.

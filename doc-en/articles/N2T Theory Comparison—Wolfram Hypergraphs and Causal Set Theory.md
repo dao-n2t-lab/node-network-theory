@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 **Note**: Wolfram hypergraphs and causal set theory are discrete spacetime hypotheses in the direction of quantum gravity; N2T originates from IT information metamodels and extends upward to cover the complete chain of physics-life-society. This table can be directly placed in the appendix of a paper, with academic language treatment.
 
 | Comparison Dimension | N2T Node Network Theory | Wolfram Hypergraph | Causal Set Theory |

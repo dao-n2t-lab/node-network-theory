@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In standard physics, the Rayleigh-Jeans formula and the Wien formula are respectively the classical and early quantum theoretical descriptions of the blackbody radiation spectrum. The Rayleigh-Jeans formula diverges at high frequencies, the Wien formula deviates at low frequencies, and Planck unified the two through energy quantization. In the N2T framework, these three formulas are reinterpreted as three geometric descriptions of the frequency-matching relationship between traveling waves and standing waves in a node network across different frequency regimes.
 
 This article presents the N2T framework's complete explanation of the blackbody radiation problem from four perspectives: the node-network definition of a blackbody, the geometric correspondence of the three formulas, the geometric origin of Planck quantization, and a unified comparison table.

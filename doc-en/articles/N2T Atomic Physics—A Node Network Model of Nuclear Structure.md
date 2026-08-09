@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In standard nuclear physics, the atomic nucleus is composed of protons and neutrons bound together by the strong interaction (nuclear force), and its structure is described by the shell model, collective model, or liquid drop model. In the N2T framework, the atomic nucleus is reinterpreted as: a stress-balanced node cluster formed by nucleons (protons and neutrons) connected through shared nodes and strong-force edges.
 
 This article presents the N2T framework's geometric explanation of nuclear structure from five perspectives: the node structure of nucleons, inter-nucleon connections, the stress balance of the nucleus, the geometric origin of shell structure and magic numbers, and the correspondence with standard nuclear physics.

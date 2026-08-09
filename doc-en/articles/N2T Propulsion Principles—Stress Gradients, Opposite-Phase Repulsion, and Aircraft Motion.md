@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In the N2T framework, the essence of aircraft forward motion is not the generation of reaction force by expelling propellant, but the regulation of the stress distribution of the node network around itself, causing itself to move from a high-stress region toward a low-stress region. The core operation of propulsion is to create a net stress gradient and allow the aircraft node network to move along the direction of that gradient.
 
 This article presents the N2T framework's complete explanation of the phenomenon of "propulsion" from four perspectives: the stress gradient mechanism, the phase conditions for repulsion/attraction, frequency regulation strategies, and corresponding practices in real-world engineering.

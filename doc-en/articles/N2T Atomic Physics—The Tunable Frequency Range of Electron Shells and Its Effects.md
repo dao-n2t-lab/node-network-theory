@@ -1,3 +1,7 @@
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
+
 In standard physics, the state of an atom's outer electron shell is described by "energy levels" and "orbitals." In the N2T framework, these concepts are reinterpreted as the "tunable frequency range" of the atom's outer shell node network—that is, the range of frequency deviation that the outer standing-wave modes can accommodate under stress balance conditions.
 
 This article presents the N2T framework's geometric explanation of atomic electron shell behavior from four perspectives: the definition of the tunable frequency range, its determining factors, its macroscopic manifestations, and its effects on material properties.

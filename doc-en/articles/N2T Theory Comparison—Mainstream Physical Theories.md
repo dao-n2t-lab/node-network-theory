@@ -1,4 +1,6 @@
-Written in July, 2026 by Cunzhang
+author: Cunzhang
+author_url: https://github.com/dao-n2t-lab
+license: CC BY-SA 4.0
 
 | Comparison Dimension | Node Network Theory (N2T) | Causal Dynamical Triangulation (CDT) | Standard Model + General Relativity (Mainstream Physics) | Quantum Field Theory (QFT) | Loop Quantum Gravity (LQG) | It from Bit (Relational Quantum Mechanics) |
 |:---|:---|:---|:---|:---|:---|:---|
