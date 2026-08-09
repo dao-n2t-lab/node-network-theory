@@ -32,6 +32,28 @@ The order‑of‑magnitude of $d_{0}$ is derived from the ratio between the volu
 
 No additional preset parameters are introduced in the subsequent deduction process.
 
+## 2 Background and Ideological Context
+
+The evolutionary process of the universe can be summarized as:
+
+Universe Initialization → Matter Formation → Emergence of Life → Understanding the Universe → Model Construction → Universe‑Simulation
+
+Humanity is currently in the evolutionary stage of "understanding the universe and constructing models".
+
+As a senior IT engineer, the author’s original research goal was to build a system capable of managing diverse information. After nearly thirty years of research, the foundational theory of "Information Meta‑Model + System Meta‑Model + Full Lifecycle Management Algorithm" was established, with prototype development and product delivery completed. Its core idea adopts the minimalist binary relations _inheritance_ and _containment_ to correlate all information in human society and achieve "unique recording and comprehensive association" of information. This technology has the potential to realize a full‑scope digital twin for human society. Its underlying foundation consists of "information nodes and information relationships" (specific technical details are outside the scope of this paper).
+
+After the engineering model was developed, it was discovered that this paradigm could be extended to construct a cosmological model.
+
+This intellectual journey from engineering practice toward theoretical expansion can be divided into three layers:
+
+1. **Tier 1: Unified Information Model (Practical‑Validation Layer)**  
+    Resolves heterogeneous data problems across software, hardware devices and enterprise business systems. Supported by measured performance and verified by commercial products — this part has been proven valid by real‑world practice.
+2. **Tier 2: Cross‑Domain Knowledge Parsing (Intermediate‑Theory Layer)**  
+    Verified by practical systems: chemical elements, historical figures, social organizations and engineering projects can all be structurally parsed using the Information Meta‑Model (combined with the System Meta‑Model and Full Lifecycle Management Algorithm). This suggests it may serve as a general cognitive grammar: knowledge from arts, engineering and science can be mapped into the same framework for unified sorting, retrieval and deduction.
+3. **Tier 3: Extension to the Physical Universe (Derivative‑Extension Layer)**  
+    During this research, the author observed that human brains, artificial systems and all things in nature appear to obey shared underlying rules. This raised a research question: do objective matter, space‑time and particles also follow identical underlying topological logic? Accordingly, the axioms of the Information Meta‑Model were fully transferred, giving rise to the thought‑experiment known as the "node‑network universe".
+
+Accordingly, the physical theory presented in this paper is an extended application of this general cognitive system, rather than its original primary objective.
 ## 3. Core Viewpoints
 
 Through research and practice, the author finds that everything in this world consists of objects and their relationships (nodes + edges). An object can be defined as follows:
@@ -774,7 +796,7 @@ For genuine complex systems, attributes across all six layers are reversed:
 
 Operations across all layers serve one overarching objective: sustaining continuous existence, stability and further continuation of the whole system.
 
-#### Full Lifecycle Management Algorithm</h3> 
+### Full Lifecycle Management Algorithm
 
 For a complete complex system, its full lifecycle management algorithm works as follows: start full lifecycle analysis from the core functional components of the system; sort out all auxiliary affairs generated during the analysis process, and perform full lifecycle analysis on these auxiliary affairs recursively until all relevant affairs within the system are covered (analysis boundaries shall be defined and external stakeholders identified), so as to complete the full lifecycle analysis of the entire system.
 
