@@ -56,30 +56,37 @@ This intellectual journey from engineering practice toward theoretical expansion
 Accordingly, the physical theory presented in this paper is an extended application of this general cognitive system, rather than its original primary objective.
 ## 3. Core Viewpoints
 
-Through research and practice, the author finds that everything in this world consists of objects and their relationships (nodes + edges). An object can be defined as follows:
-
-1. The attributes and functions of an object are determined by its constituent parts and their compositional relationships.
-2. The internal structure of an object couples with the external world through emergent properties. Feedback from the outside triggers adjustments to its internal structure, and new structures in turn give rise to new properties.
-
-An object cannot exist without an external environment, because "existence" itself draws a distinction between internal and external. Emergence is not some obscure phenomenon. It simply means that when changes occur inside or outside a subsystem and cross a certain threshold, the subsystem switches its operating mode and exhibits different characteristics.
-
-The entire universe emerges layer‑by‑step in this manner, starting from the simplest "objects and relationships".
-
-Emergence occurs universally across different scales of the universe, for example:
-
-- **Water molecules and liquid water**: A single water‑molecule has no property of "wetness" or "fluidity". When large numbers of water‑molecules gather at room‑temperature and hydrogen‑bond networks form and reach a critical scale, the whole collective exhibits emergent fluidity and surface‑tension. These are not new functions of individual water‑molecules; rather, scale triggers a collective switch in the interaction modes among molecules.
-- **Locusts and locust plagues**: Solitary locusts are green, timid and forage individually. Once population‑density exceeds a critical threshold, physical contact frequency among conspecific individuals surges, triggering changes in serotonin levels. Locusts then turn dark‑colored, gather in swarms and migrate violently. This is not caused by gene‑mutation; external‑density parameters trigger a unified shift in the internal state of individuals.
-- **Morphable robots**: A robot can rearrange the connection modes of its sub‑components (arms, legs, torso), and switch among truck, fighter‑jet and combat configurations. Each configuration possesses completely different functional characteristics. These features do not come from the parts themselves, but from the combinatorial topology among parts.
-- **Factory normal‑mode and emergency‑mode**: Under normal orders, one set of production‑lines runs according to fixed cycles. When accidents such as power‑failure or leakage happen, the system automatically switches to emergency‑mode: halting partial production‑lines, activating backup power‑supplies and readjusting logistics‑routes. Factory‑equipment itself remains unchanged; what changes are connection‑priorities among devices and resource‑allocation rules.
-- **Normal‑state and wartime‑mode of a state**: In peacetime, state resources are devoted to people’s livelihood, education and infrastructure‑construction. Once war breaks out, the state switches to a wartime system: traffic‑control, material‑allocation, information‑propagation and manpower‑mobilization are all restructured. The fundamental constituent‑elements of the state remain unchanged; what changes are coupling‑modes and response‑logic among its components.
-
-**Boundary note on demonstrative effectiveness of these cases**:
-
-Self‑organizing systems without designers (water‑molecule clusters, locust populations): no preset external control‑logic. Macro‑characteristics form spontaneously only through local interactions among units. This fully matches the core hypothesis that the universe evolves purely by self‑organization without an external creator.
-
-Systems created by intelligent agents (morphable‑robots, factory production‑lines, state‑governance‑systems): these contain artificially defined switching‑rules and external regulatory subjects. They do not directly prove evolutionary‑laws of the natural universe, and serve only as aids for understanding the logic that _changes in topological‑structure bring about drastic shifts in macro‑characteristics_.
-
-Although these five examples vary greatly in scale, they share the same underlying logic: the macro‑characteristics of a system depend on the interaction‑modes of its sub‑objects that get switched under specific threshold‑conditions. Such "mode‑switching" is not an accidental phenomenon but fundamental behavior of complex‑systems. This is the core principle repeatedly applied in subsequent deductions of the underlying cosmic‑structure.
+### 3.1 Foundational Ontology: The Universe Is a Discrete Vibrating Node Network
+The universe does not possess a continuous, smooth foundational spacetime. All space, matter, and forces originate from indivisible fundamental units—**nodes**—which are connected by relational edges to form a globally connected network.
+All nodes share identical intrinsic properties, with only three global initial calibration parameters, and no individual node carries its own independent constants:
+- Total number of nodes in the universe;
+- Initial average node spacing of the network;
+- Fundamental angular frequency of node simple harmonic vibration.
+Nodes continuously undergo simple harmonic vibration. Vibrations propagate along edges as waves. Phase differences in vibrations between nodes in different regions generate internal stresses within the network. The network always spontaneously evolves toward the topological configuration that minimizes global stress. Particles, gravity, quantum effects, and celestial structures are all macroscopic manifestations emerging from this stress-minimization evolution.
+### 3.2 A Unified Emergence Pathway: From Fundamental Network to Intelligent Systems
+The global network follows a fixed, unidirectional hierarchy of emergence, with no cross-level reverse generation of complex structures:
+Initial uniform node network $\rightarrow$ Quarks and elementary particle clusters $\rightarrow$ Atoms $\rightarrow$ Molecules $\rightarrow$ Stellar and galactic macroscopic structures $\rightarrow$ Self-replicating units (life) $\rightarrow$ Intelligent systems with environmental awareness
+### 3.3 The Six-Layer Universal Meta-Structure: A Framework for Isomorphic Analysis of All Things
+Any object of study (physical particle, molecule, biological cell, enterprise, AI program) can be decomposed into six nested layers. These layers are fixed in definition and do not change with the scale of the object:
+1. **Component Layer**: The fundamental underlying units constituting the object—at the physical level, these are node clusters;
+2. **Architecture Layer**: The stable, long-lasting connection topology among components (corresponding to network edges);
+3. **Mechanism Layer**: Fixed cyclic interaction logic among components, consisting of batches of repeated transactions;
+4. **Transaction Layer**: A single complete interaction between components—the minimal unit of dynamics;
+5. **Event Layer**: The state instance and change record left behind after a single transaction occurs;
+6. **Information Layer**: The medium and characteristic quantities that carry interaction states, phases, and vibration amplitudes.
+For purely physical objects, all six layers evolve passively, without any goal of self-preservation. Life forms, social organizations, and intelligent systems, on top of the six layers, add self-preservation driving logic, thereby becoming complete systems.
+### 3.4 Self-Replicating Units Distinguish Inanimate Matter from Complex Systems
+Only when the local topology of the network evolves to produce stable clusters capable of complete self-replication—carrying their own configurational information—does the transition from a purely physical network to a system occur.
+All self-replicating structures must possess a binary complementary pairing structure at their base, with two types of monomers mutually supporting each other to complete replication:
+- Biological genetic systems: complementary base pairing A-T/U, G-C;
+- Computational logic systems: binary levels 0/1 with logic gates;
+- Primitive molecular replication systems: two complementary organic monomers X and Y alternating in chains.
+### 3.5 Theoretical Boundaries and Positioning
+N2T is a thought-experiment-style unified modeling framework, not a mature physical theory that has undergone complete rigorous mathematical proof. Its core boundary constraints are as follows:
+- The framework can be simultaneously applied to modeling in natural sciences, computer engineering, and social sciences, achieving unification of knowledge systems;
+- It does not negate the computational validity of general relativity or quantum field theory within their respective domains, but merely provides an alternative discrete-level explanatory perspective;
+- All macroscopic physical constants (the fine-structure constant $\alpha$, electron mass $m_e$ , etc.) are emergent geometric quantities of the network and require no independent manual input;
+- The model is simultaneously compatible with microscopic quantum behavior and macroscopic gravity, with no quantum-gravity conflict.
 
 ## 4. Derivation Process
 
@@ -577,11 +584,6 @@ After emergence of self‑replicating‑units the universe obtains its first fun
 This boundary arises from purely‑physical‑mechanisms and does not depend on subjective‑consciousness or subjective‑sensation, comparable to mechanical‑devices distinguishing‑objects purely‑via shape‑and‑charge‑matching‑criteria. It marks the transition‑point of the universe from undifferentiated passive‑physical‑equilibrium toward bounded, persistence‑oriented system‑structures, and forms the archetypal origin‑point for all life, intelligence and cognition.
 
 Through iterative‑evolution of self‑replicating‑structures simple‑life evolves sophisticated perception‑homeostasis‑adaptable‑behaviour eventually yielding human‑level higher‑intelligence. Humans in‑turn build artificial‑information‑systems and computational‑intelligence‑systems simulating cosmic‑laws, closing the highest‑order cognitive‑loop of cosmic‑hierarchy.
-
-**General constructive‑rules for systems: recursive full‑life‑cycle‑architecture**  
-All systems as persistence‑oriented high‑order‑entities obey full‑life‑cycle‑evolution‑rules: general‑phases include construction, operation and destruction; complex‑systems may further‑subdivide phases. The ultimate‑purpose of all internal‑sub‑objects within a‑system is to serve overall‑system‑persistence: core‑sub‑objects deliver main‑functions; auxiliary‑sub‑objects implement environmental‑adaptation, input‑output, homeostatic‑support and mode‑switching‑services. These constraints are recursive across systems, subsystems and components. Recursive‑rules support system‑structural‑analysis, necessity‑validation, redundancy‑optimisation and forward‑architectural‑design.
-
-Algorithms for full‑life‑cycles and system‑engineering‑construction belong to intermediate‑layer general‑cognition‑and‑engineering‑implementation of this framework. This paper primarily addresses N2T‑physical‑model and global‑unified‑modelling‑paradigm; further‑details on system‑engineering, algorithms and artificial‑system‑implementation will not be expanded‑upon here.
 
 ## 5 Summary of Derivations: Derivation of 20+ Physical Quantities and Emergent Properties at Each Hierarchy
 
