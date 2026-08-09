@@ -36,17 +36,24 @@ In cosmic evolution, the emergence of self‑replicating units serves as the cri
 
 ## Directory Settings
 ~~~
+
 ├─ README.md # 中文首页简介 
-├─ README-en.md # English Home Page Introduction 
+├─ README-en.md # 英文首页简介 
 ├─ docs/ # 文章 
-│ ├─ full/ # 主文全文 
-│ ├─ chapter/ # 主文章节 
+│ ├─ 节点网络理论（Node-Network Theory, N2T）.md 
 │ └─ articles/ # 独立专题文章 
-├─ docs‑en/ # English Translation Table of Contents 
-│ ├─ full/ # Full Text 
-│ ├─ chapter/ # Main Article Section 
-│ └─ articles/ # Independent Special Articles 
-└─ 节点网络理论（Node-Network Theory, N2T）.pdf  # PDF版全文
+│ │ └─ ......
+└─ docs‑en/ # English Translation Table of Contents 
+  ├─ Node-Network Theory(N2T).md # Full Text 
+  └─ articles/ # Independent Special Articles 
+    ├─ N2T Atomic Physics—Principal Quantum Number and Radial Standing-Wave Modes.md 
+    ├─ N2T Atomic Physics—A Node Network Model of Nuclear Structure.md 
+    ├─ N2T Atomic Physics—The Tunable Frequency Range of Electron Shells and Its Effects.md
+    ├─ N2T Atomic Physics—The Geometric Origin of Electron Orbital Shapes.md
+    ├─ N2T Atomic Physics—The Geometric Origin of Spin and the Pauli Exclusion Principle.md
+    ├─ N2T Cosmology—A Node Network Explanation of Cosmic Cycles.md
+    └─ ......
+
 ~~~
 
 ## Current Version
