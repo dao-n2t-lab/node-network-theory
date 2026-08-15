@@ -1,3 +1,11 @@
+---
+author: Cunzhang
+date: 2026-08-09
+update: 2026-08-15
+license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
+
 ### Abstract
 
 This paper proposes the Node‑Network Theory (N2T), a physical model based on discrete structures and stress minimization. The theory holds that the underlying universe is composed of nodes and edges. Nodes generate waves through vibration; phase differences of waves drive stress, and stress drives nodes to rearrange, hierarchically emerging all structures ranging from elementary particles to the macroscopic cosmos. N2T presupposes only three fundamental parameters — total number of nodes $N_{0}$, initial average spacing $d_{0}$, and initial vibration frequency $\omega_{0}$. It is calibrated by five observational values (Bohr radius, fine‑structure constant, electron mass, total mass of the observable universe, average nucleon mass). After calibration, all other constants emerge naturally from network geometry without additional independent presuppositions. This paper is an open‑source thought‑experiment, demonstrating a feasible path for deriving cosmic complexity from minimal underlying assumptions. Several open questions remain within the framework, including the geometric mechanism of quantum entanglement, emergence of the arrow of time, and the precise isomorphism between Lie groups and network topology, which await further research and refinement.

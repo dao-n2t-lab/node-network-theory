@@ -1,6 +1,6 @@
 ---
 作者：村长
-日期: 2026年08月15日
+日期：2026年08月15日
 授权：CC BY-SA 4.0
 仓库: https://github.com/dao-n2t-lab/node-network-theory
 ---
