@@ -1,6 +1,9 @@
+---
 作者：村长
-网址： https://github.com/dao-n2t-lab
+日期: 2026年08月08日
 授权：CC BY-SA 4.0
+仓库: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 在N2T框架中，$c$、$h$、$G$、$\alpha$、$e$ 不是独立预设的常数，而是从节点网络的三个底层参数（$N_0$、$d_0$、$\omega_0$）中涌现出来的几何量。本文进一步追问：这些常数在宇宙演化中扮演了什么角色？它们是否对应着结构形成、相变、稳定性等关键节点？
 

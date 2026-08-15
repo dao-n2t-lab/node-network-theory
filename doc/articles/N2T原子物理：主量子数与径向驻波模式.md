@@ -1,6 +1,9 @@
+---
 作者：村长
-网址： https://github.com/dao-n2t-lab
+日期: 2026年08月08日
 授权：CC BY-SA 4.0
+仓库: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 在N2T框架中，主量子数 $n$ 不是抽象的数学参数，而是外壳层节点网络在径向方向上的驻波阶数。它决定了电子云在半径方向上的节面数量、能量等级和空间延展范围。
 

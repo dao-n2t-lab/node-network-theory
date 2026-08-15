@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In the N2T framework, life is not an "accidental byproduct" of the universe, but rather an active regulatory mode that naturally emerges when the node network evolves to a certain level of complexity. When life evolves to the point of being able to control all matter in the universe, the universe itself will undergo a fundamental transformation—from a "passively stress-responsive physical network" to an "actively stress-managing cognitive network."
 

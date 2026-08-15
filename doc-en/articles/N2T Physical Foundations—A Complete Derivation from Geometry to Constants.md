@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In standard physics, constants such as $c$，$h$，$G$，$\alpha$，and $e$ are regarded as independent fundamental parameters that require experimental determination. In the N2T framework, they are all emergent quantities—naturally derived from three underlying presupposed parameters and the geometric constraints of the node network.
 

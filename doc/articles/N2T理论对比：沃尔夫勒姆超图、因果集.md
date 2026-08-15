@@ -1,6 +1,9 @@
+---
 作者：村长
-网址： https://github.com/dao-n2t-lab
+日期: 2026年08月09日
 授权：CC BY-SA 4.0
+仓库: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 **说明**：沃尔夫勒姆超图、因果集属于量子引力方向的离散时空假说；N2T起源于IT信息元模型，向上覆盖物理-生命-社会完整链条。本表可直接放进论文附录，文字做了学术化处理。
 

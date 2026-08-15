@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In standard quantum mechanics, decoherence describes the process by which a system evolves from a quantum superposition state to a classical mixed state—coherence is gradually lost as the system couples with its environment. In the N2T framework, decoherence is reinterpreted as: phase coupling between the system's node network and an external node network, which randomizes the relative phase differences within the system, leading to irreversible loss of coherence.
 

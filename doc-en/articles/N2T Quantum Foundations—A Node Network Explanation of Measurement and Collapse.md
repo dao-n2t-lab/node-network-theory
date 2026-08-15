@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In standard quantum mechanics, measurement and wavefunction collapse are the most controversial parts of the theory—measurement causes the system to "collapse" from a superposition state to a definite eigenstate, but the physical mechanism of collapse has never been clearly explained. In the N2T framework, measurement and collapse are reinterpreted as: a strong phase locking formed between the external node network (measurement device) and the system's node network, which irreversibly suppresses the system's other phase paths, "freezing" the system into an observable phase state.
 

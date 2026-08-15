@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In the N2T framework, the large-scale structure of the universe—galaxies, galaxy clusters, superclusters, the cosmic web, and voids—is not the result of gravitational instability acting independently, but the non-uniform distribution of node density across cosmic scales.
 

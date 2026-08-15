@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In standard quantum mechanics, spin is the intrinsic angular momentum of a particle, and the Pauli exclusion principle is an independent postulate—it prohibits two electrons from occupying the same quantum state. In the N2T framework, spin and the Pauli exclusion principle are reinterpreted as: the topological phase of closed loops, and the geometric constraint that fermion rings cannot superimpose on shared nodes.
 

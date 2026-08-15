@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In standard nuclear physics, the atomic nucleus is composed of protons and neutrons bound together by the strong interaction (nuclear force), and its structure is described by the shell model, collective model, or liquid drop model. In the N2T framework, the atomic nucleus is reinterpreted as: a stress-balanced node cluster formed by nucleons (protons and neutrons) connected through shared nodes and strong-force edges.
 

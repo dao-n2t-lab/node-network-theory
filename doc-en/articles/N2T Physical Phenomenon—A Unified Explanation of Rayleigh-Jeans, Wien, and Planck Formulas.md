@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In standard physics, the Rayleigh-Jeans formula and the Wien formula are respectively the classical and early quantum theoretical descriptions of the blackbody radiation spectrum. The Rayleigh-Jeans formula diverges at high frequencies, the Wien formula deviates at low frequencies, and Planck unified the two through energy quantization. In the N2T framework, these three formulas are reinterpreted as three geometric descriptions of the frequency-matching relationship between traveling waves and standing waves in a node network across different frequency regimes.
 

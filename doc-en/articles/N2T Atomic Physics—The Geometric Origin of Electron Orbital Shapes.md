@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In standard quantum mechanics, the shapes of electron orbitals (s, p, d, f) are given by solutions to the Schrödinger equation, and the number of angular nodal surfaces is a mathematical feature of the wavefunction. In the N2T framework, these orbital shapes are reinterpreted as: the projections of standing-wave modes on the hexagonal grid of the atomic shell layer in three-dimensional space.
 

@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In the N2T framework, the three states of matter (solid, liquid, gas) are not intrinsic properties of matter, but three network structural states exhibited by the same set of node clusters under different vibration amplitudes and frequencies. The differences between solid, liquid, and gas come from variations in the spatial relationships, connection modes, and stress intensities between node clusters.
 

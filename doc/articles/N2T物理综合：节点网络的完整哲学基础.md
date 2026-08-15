@@ -1,6 +1,9 @@
+---
 作者：村长
-网址： https://github.com/dao-n2t-lab
+日期: 2026年08月08日
 授权：CC BY-SA 4.0
+仓库: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 在N2T框架从基本粒子到宇宙的完整推导之后，我们需要回答一个更根本的问题：这个框架的哲学基础是什么？它建立在哪些预设之上？它如何理解“存在”、“知识”和“解释”？
 

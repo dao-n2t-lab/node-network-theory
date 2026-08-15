@@ -1,6 +1,9 @@
+---
 作者：村长
-网址： https://github.com/dao-n2t-lab
+日期: 2026年08月08日
 授权：CC BY-SA 4.0
+仓库: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 在N2T框架中，肌肉收缩不是“化学能转化为机械能”的转换过程，而是肌肉细胞节点网络中相位应力的定向累积与释放。化学能（ATP）的作用是改变节点的振动状态，从而控制应力梯度的形成方向和大小。
 

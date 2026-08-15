@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In the N2T framework, the essence of aircraft forward motion is not the generation of reaction force by expelling propellant, but the regulation of the stress distribution of the node network around itself, causing itself to move from a high-stress region toward a low-stress region. The core operation of propulsion is to create a net stress gradient and allow the aircraft node network to move along the direction of that gradient.
 

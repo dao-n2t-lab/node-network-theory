@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In standard physics, superconductivity is the phenomenon in which certain materials exhibit zero electrical resistance and complete diamagnetism at low temperatures. In this framework, superconductivity is reduced to: electron standing waves in the node network establishing global phase locking through the lattice node network—all electron standing waves participating in superconductivity form a giant standing-wave network covering the entire material, in which traveling waves propagate without scattering or dissipation.
 

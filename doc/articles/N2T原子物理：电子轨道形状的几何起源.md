@@ -1,6 +1,9 @@
+---
 作者：村长
-网址： https://github.com/dao-n2t-lab
+日期: 2026年08月08日
 授权：CC BY-SA 4.0
+仓库: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 在标准量子力学中，电子轨道的形状（s、p、d、f）由薛定谔方程的解给出，角向节面数是波函数的数学特征。在N2T框架中，这些轨道形状被重新理解为：原子外壳层六边形网格上驻波模式在三维空间中的投影。
 

@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In the N2T framework, atmospheric electrical phenomena—light propagation in vacuum, airglow, aurora, lightning, and ball lightning—constitute a complete spectrum of stress release. They share the same underlying mechanism: the degree of edge activation and release in the node network is determined by the local stress level. They differ only in scale, stress conditions, and manifestation.
 

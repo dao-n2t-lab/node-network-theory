@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In the N2T framework, muscle contraction is not a process of "chemical energy being converted into mechanical energy," but the directional accumulation and release of phase stress in the node network of muscle cells. The role of chemical energy (ATP) is to change the vibrational state of nodes, thereby controlling the direction and magnitude of stress gradient formation.
 

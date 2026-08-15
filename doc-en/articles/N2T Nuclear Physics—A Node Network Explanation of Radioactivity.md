@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In standard nuclear physics, radioactive decay is described as the spontaneous emission of particles or energy by an unstable atomic nucleus, including α decay, β decay, and γ decay. In the N2T framework, radioactivity is reinterpreted as: the process by which the atomic nucleus node network releases excess stress through an unlock mechanism when stress exceeds the threshold.
 

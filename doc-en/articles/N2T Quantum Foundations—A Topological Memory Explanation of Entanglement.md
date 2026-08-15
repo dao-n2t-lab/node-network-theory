@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In standard quantum mechanics, quantum entanglement is described as an indivisible quantum correlation between two or more particles—where a change in one particle's state instantaneously affects the other, even when they are far apart. In the N2T framework, entanglement is reinterpreted as: the topological phase memory "frozen" in each node cluster's node network after the two node clusters once shared the same closed loop.
 

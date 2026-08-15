@@ -1,6 +1,9 @@
+---
 作者：村长
-网址： https://github.com/dao-n2t-lab
+日期: 2026年08月08日
 授权：CC BY-SA 4.0
+仓库: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 在标准量子场论中，两个带电粒子之间的相互作用通过交换“虚粒子”来描述。在N2T框架中，同一现象被重新理解为：节点网络中相位差和应力沿边的直接传递，无需引入不可观测的中间实体。
 

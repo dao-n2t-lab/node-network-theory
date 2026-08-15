@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 After the complete derivation of the N2T framework from elementary particles to the universe, we need to answer a more fundamental question: What are the philosophical foundations of this framework? What presuppositions is it built upon? How does it understand "existence," "knowledge," and "explanation"?
 

@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In standard cosmology, the evolution of the universe is usually described as beginning with the Big Bang, undergoing accelerating expansion, and eventually ending in heat death or the Big Rip. In the N2T framework, the evolution of the universe is reinterpreted as: a periodic cycle of stress concentration and release in the node network.
 

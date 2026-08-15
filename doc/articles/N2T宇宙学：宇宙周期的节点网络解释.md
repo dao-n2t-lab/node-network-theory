@@ -1,6 +1,9 @@
+---
 作者：村长
-网址： https://github.com/dao-n2t-lab
+日期: 2026年08月08日
 授权：CC BY-SA 4.0
+仓库: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 在标准宇宙学中，宇宙的演化通常被描述为从大爆炸开始，经历加速膨胀，最终走向热寂或大撕裂。在N2T框架中，宇宙的演化被重新理解为：节点网络中应力集中与释放的周期性循环。
 

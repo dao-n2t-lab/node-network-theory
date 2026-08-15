@@ -1,6 +1,9 @@
+---
 作者：村长
-网址： https://github.com/dao-n2t-lab
+日期: 2026年08月08日
 授权：CC BY-SA 4.0
+仓库: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 在标准物理中，$c$、$h$、$G$、$\alpha$、$e$ 等常数被视为独立的、需要实验测定的基本参数。在N2T框架中，它们都是涌现量——从三个底层预设参数和节点网络的几何约束中自然推导出来。
 

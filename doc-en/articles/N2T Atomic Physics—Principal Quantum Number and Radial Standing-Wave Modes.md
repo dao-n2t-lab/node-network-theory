@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In the N2T framework, the principal quantum number $n$ is not an abstract mathematical parameter, but the standing-wave order of the shell-layer node network in the radial direction. It determines the number of nodal surfaces in the radial direction, the energy level, and the spatial extent of the electron cloud.
 

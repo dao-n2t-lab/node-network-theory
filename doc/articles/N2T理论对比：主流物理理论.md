@@ -1,6 +1,9 @@
+---
 作者：村长
-网址： https://github.com/dao-n2t-lab
+日期: 2026年08月09日
 授权：CC BY-SA 4.0
+仓库: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 | 对比维度 | 节点网络理论 (N2T) | 因果动态三角剖分 (CDT) | 标准模型 + 广义相对论 (主流物理) | 量子场论 (QFT) | 圈量子引力 (LQG) | 关系量子力学 (It from Bit) |
 |:---|:---|:---|:---|:---|:---|:---|

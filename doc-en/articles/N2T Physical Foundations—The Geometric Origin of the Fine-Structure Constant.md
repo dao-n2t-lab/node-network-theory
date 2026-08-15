@@ -1,6 +1,9 @@
+---
 author: Cunzhang
-author_url: https://github.com/dao-n2t-lab
+date: 2026-08-09
 license: CC BY-SA 4.0
+repository: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 In standard physics, the fine-structure constant $\alpha \approx 1/137.036$ is a dimensionless constant determined by experiment, and the standard model cannot explain why it has precisely this value. In the N2T framework, $\alpha$ is reinterpreted as: the coupling ratio between the charge mode and the spin mode of standing-wave modes on a hexagonal loop in three-dimensional space.
 

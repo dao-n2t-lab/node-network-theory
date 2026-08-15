@@ -1,6 +1,9 @@
+---
 作者：村长
-网址： https://github.com/dao-n2t-lab
+日期: 2026年08月08日
 授权：CC BY-SA 4.0
+仓库: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 在标准物理中，精细结构常数 $\alpha \approx 1/137.036$ 是一个无量纲常数，由实验测定，标准模型无法解释它为何恰好是这个值。在N2T框架中，$\alpha$ 被重新理解为：六边形环路在三维空间中的驻波模式，其电荷模式与自旋模式的耦合比。
 

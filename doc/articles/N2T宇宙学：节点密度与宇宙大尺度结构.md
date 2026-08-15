@@ -1,6 +1,9 @@
+---
 作者：村长
-网址： https://github.com/dao-n2t-lab
+日期: 2026年08月08日
 授权：CC BY-SA 4.0
+仓库: https://github.com/dao-n2t-lab/node-network-theory
+---
 
 在N2T框架中，宇宙大尺度结构——星系、星系团、超星系团、宇宙网、空洞——不是引力不稳定性独立作用的结果，而是节点密度在宇宙尺度上的非均匀分布。
 
