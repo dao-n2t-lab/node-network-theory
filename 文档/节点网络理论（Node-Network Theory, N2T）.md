@@ -378,7 +378,7 @@ $$\frac{\partial S}{\partial \theta_i} = 0, \quad \frac{\partial S}{\partial L_{
 - **边总数**：3个环 $\times$ 3条边 $= 9$ 条边；
 - **相位锁定**：每个夸克环内部三节点相位差固定为 $0^\circ$、$120^\circ$、$240^\circ$，三个环共享中心节点，整体相位和为 $360^\circ$，呈“无色”态。
 
-[[https://github.com/dao-n2t-lab/node-network-theory/blob/main/code/proton.png]]
+![质子结构图]([./assets/node.png](https://github.com/dao-n2t-lab/node-network-theory/blob/main/code/proton.png))
 图1 质子三维模型
 
 **三维扇叶结构的物理意义**：
