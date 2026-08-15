@@ -308,7 +308,7 @@ The proton's structure in the N2T framework is modeled as a three-dimensional fa
 - **Total edges**: 3 rings $\times$ 3 edges $= 9$ edges;
 - **Phase locking**: within each quark ring, the three nodes maintain fixed phase differences of $0^\circ$, $120^\circ$, and $240^\circ$; the three rings share the central node, with the total phase sum of $360^\circ$, in a "colorless" state.
 
-[[Pasted image 20260815205609.png]]
+[[https://github.com/dao-n2t-lab/node-network-theory/blob/main/code/proton.png]]
 Figure 1: Three-dimensional proton model
 
 **Physical significance of the three-dimensional fan-blade structure**:
