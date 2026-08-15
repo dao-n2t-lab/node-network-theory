@@ -220,154 +220,177 @@ Phenomena explainable within this subsection:
 - Three‑dimensional space: global statistical geometric distribution of all edge‑lengths $L_{ij}$ gives rise to spatial scale and coordinates.
 - Time‑dimension: iterative sequence determined by edge‑propagation‑delay $\tau_{ij}$ yields unidirectional temporal evolution.
 
-### 4.2 Quarks formed by node‑connections
+### 4.2 Node Connections Produce Quarks
 
-Within this framework quarks are no longer treated as fundamental particles; they represent stable topological solitons inside vibrational networks, namely phase‑locked rings.
+In this framework, quarks are no longer "elementary particles" but stable topological solitons in the vibrational network—"phase-locked rings."
 
-Where does the number "three" for quarks originate? To maintain structural stability against fluctuations, closed‑loop standing‑wave conditions must hold: after one full circuit around a closed loop, wave‑phase must return to its starting value. Two nodes can only form open‑chains (open strings) incapable of closed‑loop configurations. Three nodes may build triangular closed‑loops supporting stable standing‑wave modes.
+#### Where Does the "3" of Quarks Come From?
 
-"Color charge" may be naturally interpreted as relative phase‑differences of the three nodes: Red = $0^\circ$, Green = $120^\circ$, Blue = $240^\circ$. Summing to $360^\circ$ ($0+120+240=360^\circ$) yields zero net‑wave‑phase ("color‑neutral"), matching SU(3) symmetry for quark color‑charge. Equilateral‑triangle closed‑loops with fixed $120^\circ$ phase‑differences among nodes realize third‑order cyclic‑group transformations. When extended into three‑dimensional phase‑space, the group‑structure is strictly isomorphic to the SU(3) gauge‑group of quantum‑chromodynamics. The three phase‑values correspond to red‑green‑blue color‑charges; summing‑to‑360° realizes color‑neutral states. This reproduces quark‑color‑symmetry without artificial numerical fitting.
+- For a composite structure to remain stable under wave interference, the standing-wave condition must be satisfied—the phase must return to its origin after propagating one full loop in a closed path;
+- Two nodes can only form an open chain (open string) and cannot form a closed loop; three nodes can form a triangular closed loop, in which the wave forms a stable standing-wave mode;
+- "Color" can be naturally explained as the relative phase differences of the three nodes: red $= 0^\circ$, green $= 120^\circ$, blue $= 240^\circ$;
+- When the sum of the three phase differences is $360^\circ$ ($0 + 120 + 240 = 360$), the total wave phase is zero ("colorless")—corresponding to the SU(3) symmetry of quark "color charge."
 
-Geometric constraints for triangular‑structures:
+The three-node equilateral triangular closed loop, with the three nodes phase-locked at $120^\circ$ intervals, forms a third-order cyclic group in loop phase transformation operations. When extended to three-dimensional phase space, the group structure is strictly equivalent to the SU(3) gauge group of quantum chromodynamics; the three phase differences correspond to the three color charges (red, green, blue), and the total phase sum of $360^\circ$ realizes the colorless neutral state, fully matching quark color symmetry without artificial numerical fitting.
 
-1. Equal edge‑lengths (equilateral triangle): otherwise differing wave‑propagation‑times on edges produce phase‑drift and structural disintegration. The vibration‑attraction mechanism automatically adjusts edge‑lengths.
-2. Phase‑locking: three‑node phases maintain fixed $120^\circ$ offsets; each node adjusts in real‑time according to neighbours such that their sum always equals $360^\circ$.
-3. Collective vibrational‑modes: collective oscillation of the whole triangle manifests as "mass". Wave‑propagation along edges forms discrete versions of the gluon‑field: elastic‑stress maintaining structural stability.
+#### Geometric Constraints of the Triangular Structure:
 
-Particle identities are determined by vibrational‑modes:
+1. **Equal side lengths (equilateral triangle)**: otherwise, the wave propagation times on the three edges would differ, causing phase drift and structural disintegration. The system automatically adjusts edge lengths through the vibration-attraction mechanism;
+2. **Phase locking**: the three nodes maintain a fixed phase difference of $120^\circ$, with each node continuously adjusting according to the other two, so that the initial phases sum to $360^\circ$;
+3. **Overall vibration mode**: the triangle as a whole undergoes collective vibration, manifesting as "mass." Wave propagation on the edges forms a discrete version of the "gluon field"—the elastic stress that maintains structural stability.
 
-- Lower collective‑vibration‑frequency (longer wavelength): light quarks (up / down).
-- Higher collective‑vibration‑frequency (shorter wavelength): heavy quarks (charm / top).
-- Asymmetric vibrational‑modes (unequal amplitudes for three nodes): excited‑state resonance‑particles.
+#### Particle Identity Is Determined by Vibration Modes:
 
-Therefore six quark‑flavors do not need to be presupposed; different intrinsic‑modes of triangular closed‑loops naturally correspond to distinct quark flavors.
+- Lower overall vibration frequency (long wavelength) $\rightarrow$ light quarks (up/down);
+- Higher overall vibration frequency (short wavelength) $\rightarrow$ heavy quarks (charm/top);
+- Asymmetric vibration modes (inconsistent amplitudes among the three nodes) $\rightarrow$ excited states (resonance particles).
 
-Hadrons assembled from two‑ or three‑quarks:
+Thus, there is no need to presuppose six quark flavors; the multiple vibration eigenmodes of the triangular closed loop automatically correspond to different flavors.
 
-- Mesons (quark‑antiquark pairs): two phase‑opposite triangular‑rings connected via one "gluon‑edge"; total phase‑difference equals zero.
-- Baryons (three‑quarks): three triangular‑rings nested into larger triangular closed‑structures, overall phase‑sum $360^\circ$ (color‑neutral).
+The reason up/down quarks are "fixed" is that their triangular rings have reached local stress equilibrium inside protons/neutrons. In this equilibrium state, the edge length deviation is fixed, and the overall vibration frequency is locked near the fundamental frequency. However, this locking is not absolute—when sufficient external energy is input, the edge length can be compressed, the loop frequency rises, producing heavy quarks or excited states. The "stability" of up/down quarks is the result of stress balance, not the immutability of edge length.
 
-Emergence of color‑confinement: any attempt to pull‑out a single node breaks closed‑loop standing‑wave‑conditions. The system immediately generates fresh nodes (wave‑pairs) at fracture‑points for compensation. Calculation from loop‑stress‑equations shows energy required for separating two quarks grows linearly with distance, matching QCD confinement energy‑scales.
+#### Two or Three Quarks Form Hadrons:
 
-Mass‑generation‑mechanisms:
+- **Meson (quark-antiquark pair)**: two triangular rings of opposite phase connected by a "gluon edge," with a total phase difference of 0;
+- **Baryon (three quarks)**: three triangular rings sharing a central node, with a total phase sum of $360^\circ$ (colorless), forming a trefoil knot topology;
+- **Emergence of "color confinement"**: any attempt to pull out a single node would break the triangular closed-loop standing-wave condition; the system immediately generates a new node (vibration-wave pair) at the break point to compensate.
 
-1. Base‑mass: fundamental‑frequency $\omega$ of triangular / hexagonal closed‑loops corresponds to intrinsic base‑particle‑mass.
-2. Higgs‑strain correction‑mass: deviations $\Delta L_{0}$ of loop‑edge‑lengths from equilibrium‑length produce geometric‑stress‑coupling contributing mass‑correction‑terms.
-3. Topological‑leakage tiny‑mass: open‑chains or solitons without closed‑loops produce only second‑order weak‑coupling leakage‑mass, accounting for the extremely light character of neutrinos.
+Through the loop stress equation, it can be calculated that the energy required to separate two quarks grows linearly with distance, with the energy threshold matching the QCD confinement scale.
 
-These three mass‑categories represent different terms within one unified stress‑function and possess no mutually‑disconnected independent mass‑origins. Nodes themselves carry no mass. At micro‑scale mass originates from Higgs‑strain caused by edge‑length‑deviations away from equilibrium‑length; macro‑scopically this strain statistically manifests as spatial distribution of node‑density. Both descriptions represent equivalent expressions of the same mechanism at different scales.
+**Quantitative parameter estimation**: Let the network edge length be $a$ (near the Planck scale) and the wave speed be $c$ (the speed of light). The minimum standing-wave wavelength of the triangular closed loop is $\lambda = 3a$, with corresponding frequency $\omega = 2\pi c / \lambda$, and energy $E = \hbar \omega$ falling in the quark mass scale (several hundred MeV), with $a$ taken as $0.1$ fm (approximately $10^{-15}$ m).
 
-|Stress level|Corresponding phenomenon|Observed manifestation|
-|---|---|---|
-|Extremely high|Interior of atomic‑nuclei|Strong‑interaction, nuclear‑energy|
-|High|Atoms, molecules, stars|Ordinary matter ($4.86\%$)|
-|Intermediate|Galactic halos|Dark matter ($\sim 27\%$)|
-|Extremely low|Interstellar‑space, dispersed vacuum‑nodes|Dark energy ($\sim 68\%$)|
+#### Mass Generation Mechanisms:
 
-Phenomena explainable in this subsection:
+1. **Base mass**: the fundamental vibration frequency $\omega$ of the triangular/hexagonal closed loop, corresponding to the particle's intrinsic base mass;
+2. **Higgs-strain correction mass**: edge length deviation from equilibrium $\Delta L_0$ generates geometric stress coupling, serving as a mass correction term;
+3. **Topological leakage micro-mass**: open chains and solitons without closed loops only generate second-order weakly coupled leakage mass, corresponding to the extremely light character of neutrinos.
 
-- Why quarks possess three "colors": $120^\circ$ phase‑differences among triangular‑loop nodes.
-- Why quarks are confined: triangular closed‑loops cannot break apart without generating new nodes.
-- Why quarks exhibit different flavors: different intrinsic vibrational‑modes of triangular‑loops.
-- How hadrons are assembled from quarks: nesting and edge‑sharing of triangular‑rings.
+These three types of mass belong to different terms of the same stress function, with no separate independent mass sources.
 
-### 4.3 Quarks assemble into elementary particles
+Nodes themselves do not carry mass. Mass comes microscopically from the Higgs strain generated by edge length deviation from the natural length; macroscopically, this strain statistics manifest as the spatial distribution of node density. The two are equivalent descriptions of the same mechanism at different scales.
 
-Now composite triangular‑ring complexes are assembled into observable elementary particles: protons, neutrons, electrons and neutrinos.
+| Node Density | Corresponding Phenomenon | Observational Manifestation |
+|:---:|:---|:---|
+| Extremely high | Inside atomic nuclei | Strong interaction, nuclear energy |
+| High | Atoms, molecules, stars | Ordinary matter (4.86%) |
+| Medium | Galactic halos | Dark matter (~27%) |
+| Extremely low | Interstellar space, diffuse nodes in vacuum | Dark energy (~68%) |
 
-**Proton (three‑quark, uud)**: three triangular‑rings (up, up, down‑quark) stack by sharing one central‑node forming tetrahedral‑geometry (4 nodes, 6 edges). Each triangular‑ring occupies one face; overall color‑neutral. Within network‑description: three triangular‑rings share one central‑node forming a trefoil‑knot topology.
+#### Phenomena Explained at This Stage:
 
-**Neutron (three‑quark, udd)**: two triangular‑rings (up, down) share one node; a third triangular‑ring (down‑quark) attaches to the side via gluon‑edge. Its overall vibrational‑frequency is slightly higher than that of the proton due to extra vibrational‑mass‑contribution from the down‑quark.
+- Why quarks have three "colors": the $120^\circ$ phase differences among the three nodes of the triangle;
+- Why quarks are "confined": the triangular closed loop cannot be broken without generating new nodes;
+- Why quarks have different "flavors": different eigenmodes of the triangular overall vibration frequency;
+- How hadrons are composed of quarks: nesting and sharing of edges between triangular rings.
 
-**Electron (hexagonal standing‑wave)**: the electron represents a specific stable standing‑wave‑mode within the network formed by vibration‑resonance confined on closed‑loops bounded by six edges. Nodes merely serve as support‑structures for waves, comparable to fixed‑points on a vibrating string rather than constituents of the wave itself. On loops bounded by six edges, standing‑wave‑modes satisfying resonance‑conditions (wavelength equals integer‑fraction of loop‑perimeter) manifest as electrons. This standing‑wave carries charge (phase‑stress $S_{\theta}$ perturbation), spin (handedness of loop‑vibration), and mass (coupling to Higgs‑strain‑field).
+---
 
-**Neutrinos**: Neutrinos are not built from fixed‑counts of nodes; their geometry differs fundamentally from quark triangular‑loops and electron hexagonal‑loops. They barely couple to Higgs‑strain‑fields, meaning they cannot form complete strain‑coupling closed‑circuits. Two candidate‑configurations:
+### 4.3 Quarks Form Elementary Particles
 
-- Single‑node soliton: isolated node weakly connected by one weak‑coupling edge, no closed‑loop; mass comes only from second‑order topological‑leakage and is extremely small.
-- Two‑node open‑chain: two‑nodes linked by weak‑coupling‑edge forming open non‑closed structures capable of flipping along the time‑direction (Majorana‑like properties) with almost zero Higgs‑field‑coupling.
+Now we assemble the triangular ring complexes into observable elementary particles—protons, neutrons, electrons, and neutrinos.
 
-Neutrinos carry no charge and self‑balance their phase‑stress; they may adopt simpler open‑chain or soliton‑geometries without requiring compensation‑closed‑loops. Essentially neutrinos represent topological‑defects propagating through weakly‑coupled networks with nearly‑absent closed‑loops. Their tiny masses originate from transient strain‑perturbations of regions they traverse. Single‑node‑solitons and two‑node open‑chains constitute base topologies; phase‑mixing between these two topologies generates flavor‑eigenstates for three neutrino‑generations. Topological phase‑differences along propagation‑paths produce neutrino‑oscillation‑phenomena.
+#### Proton (Three Quarks, uud):
 
-Phenomena explainable in this subsection:
+The proton's structure in the N2T framework is modeled as a three-dimensional fan-blade topology:
 
-- Distinction between protons and neutrons: different arrangements (uud versus udd) for triangular‑rings.
-- Origins of electron‑charge, mass and spin: phase‑stress, strain‑coupling and handed‑topology of hexagonal‑loops.
-- Why neutrinos are ultra‑light, uncharged and hard‑to‑detect: open‑chain / soliton‑configurations absent from closed‑strain‑loops.
-- Why protons are slightly lighter than neutrons: additional vibrational‑mode‑contribution from the neutron’s down‑quark.
+- **Central node**: a core node connecting the three quark rings;
+- **Three quark rings**: up, up, and down quarks each form a triangular ring, symmetrically distributed around the central node at $120^\circ$ equal angles;
+- **Spatial configuration**: the planes of the three triangular rings are non-coplanar in space, presenting an overall three-dimensional fan-blade structure—from the side, the six peripheral nodes are distributed around the central node, forming a symmetrical arrangement of three nodes above and three below;
+- **Total nodes**: 1 central node $+$ 3 rings $\times$ 2 peripheral nodes $= 7$ nodes;
+- **Total edges**: 3 rings $\times$ 3 edges $= 9$ edges;
+- **Phase locking**: within each quark ring, the three nodes maintain fixed phase differences of $0^\circ$, $120^\circ$, and $240^\circ$; the three rings share the central node, with the total phase sum of $360^\circ$, in a "colorless" state.
 
-### 4.4 Atoms: combination of atomic‑nuclei and electron‑clouds
+**Physical significance of the three-dimensional fan-blade structure**:
 
-Atomic‑nuclei (node‑clusters built from protons and neutrons) couple via radial‑edges to outer‑shell hexagonal‑grids (support‑structures for electron standing‑waves), forming atoms.
+- The non-coplanar distribution of the three quark rings in three-dimensional space causes the central node's vibrations to propagate along edges in three different directions, naturally generating vibration components in multiple directions without additional assumptions;
+- This structure can explain the proton's non-zero magnetic moment: charge circulation closes in three-dimensional space, generating a net magnetic moment along the central axis;
+- The three quark rings, through three-dimensional phase coupling via the shared central node, naturally generate an overall topological phase of $\theta = \pi$, corresponding to the proton's spin $1/2$.
 
-Geometric‑networks of multi‑nucleon atomic‑nuclei:
+#### Neutron (Three Quarks, udd):
 
-- Deuteron (2‑nucleon): tetrahedra (proton + neutron) share one edge to build octahedral‑geometry.
-- Helium‑4 nucleus (4‑nucleon): four tetrahedra share vertices to form icosahedral‑geometry of exceptionally high symmetry, explaining the extraordinary stability of helium‑4.
-- Heavy‑nuclei (iron, uranium etc.): large‑quantities of tetrahedral‑units stack fractally, every closed‑loop satisfying zero‑total‑phase‑sum constraints (generalization of color‑confinement for nuclear‑scale).
+The neutron adopts exactly the same three-dimensional fan-blade topology as the proton, differing only in quark types:
 
-Coupling with phase‑and‑geometry dual‑stress‑networks:
+- **Three quark rings**: up, down, and down quarks each form a triangular ring, symmetrically distributed around the central node at $120^\circ$ equal angles;
+- **Spatial configuration**: the same three-dimensional fan-blade structure as the proton—the planes of the three triangular rings are non-coplanar in space, with the six peripheral nodes symmetrically arranged around the central node;
+- **Total nodes**: 7 nodes (1 central node $+$ 6 peripheral nodes);
+- **Total edges**: 9 edges (3 rings $\times$ 3 edges);
+- **Phase locking**: within each quark ring, the nodes maintain fixed phase differences of $0^\circ$, $120^\circ$, and $240^\circ$; the three rings share the central node, with the total phase sum of $360^\circ$, in a "colorless" state;
+- **Net charge**: 0 (the up quark's $+2/3$ and the two down quarks' $-1/3$ cancel each other);
+- **Overall vibration frequency**: slightly higher than the proton (due to the down quark's vibration mass contribution);
+- **Spin**: $1/2$, same as the proton;
+- **Stability**: a free neutron decays into a proton in about 15 minutes (through the "identity rewriting" operation of the weak-force edge).
 
-- Phase‑stress drives intra‑nuclear‑structures: triangular‑rings maintain $120^\circ$ internal phase‑differences; inter‑ring phase‑gradients arise from shared‑node phase‑variations. External electric‑fields modify intra‑nuclear phase‑distributions producing polarization‑responses.
-- Geometric‑stress determines nuclear‑size and shape: edge‑length $L_{ij}$ governed by geometric‑stress $S_{g}$; strong‑interaction acts as tension along edges yielding nuclear‑radius formula $R \approx 1.2 A^{1/3}\,\mathrm{fm}$.
-- Cross‑terms generate nuclear‑shell‑structure: combined action of phase‑stress and geometric‑stress produces periodic fluctuations in node‑density versus radius. Stable standing‑wave‑modes correspond to nuclear magic‑numbers: 2, 8, 20, 28, 50, 82, 126.
+#### Electron (Hexagonal Standing Wave):
 
-Total stress‑function covering sub‑nuclear to nuclear‑scales:
+- The electron is a specific stable standing-wave mode on the network, formed by vibrations駐留 on a closed loop of 6 edges;
+- Nodes are merely the "support structure" of the wave—like nodes on a vibrating string are fixed points of the standing wave, not components of the wave;
+- The electron is a vibration mode on the edges: on the closed loop of 6 edges, there exists a vibration mode satisfying the standing-wave condition (wavelength exactly equal to the loop circumference divided by an integer); this standing wave manifests as the "electron";
+- This standing wave possesses charge (carrying a perturbation of phase stress $S_\theta$), spin (the chirality of the loop vibration), and mass (coupling with the Higgs strain field).
 
-$$S_{\mathrm{total}}=\alpha S_{\theta}+\beta S_{g}+\gamma S_{\mathrm{hadron}}$$
+#### Neutrino:
 
-- $S_{\theta}$: squared phase‑differences among nodes (electromagnetism plus quark‑color‑constraints)
-- $S_{g}$: squared deviations of edge‑lengths (gravitation plus nuclear‑tension)
-- $S_{\mathrm{hadron}}$: phase‑sum‑deviations for triangular‑rings (enforcing color‑neutrality)
+- The neutrino is not composed of a fixed number of nodes. Its configuration is completely different from quarks (3-node triangular rings) and electrons (6-node hexagonal rings);
+- The neutrino almost does not participate in the Higgs strain field, meaning its geometric configuration cannot form a complete "strain coupling loop";
+- Two possible configurations:
+  - **Single-node "soliton"**: an isolated node connected to its surroundings by a single "weak-coupling edge," with no closed loop; its mass comes only from topological leakage (second-order effect), extremely small;
+  - **Two-node "open chain"**: two nodes connected by a weak-coupling edge, with an open structure (non-closed loop), capable of "flipping" along the time direction (Majorana property), with almost zero coupling to the Higgs field;
+- The neutrino carries no charge, with self-balanced phase stress; it does not require a closed loop for compensation, thus can adopt the simpler open-chain or soliton structure;
+- Essentially, the neutrino is a "nearly non-loop-forming" lepton with no stable mass and no fixed "particle number"—more like a topological defect wandering in the weakly coupled network, with mass coming from transient strain perturbations in the regions it traverses.
 
-Coupling from atomic‑nucleus toward atomic‑orbitals:
+The single-node soliton and two-node open chain are the two basic topologies; these two topologies undergo phase mixing through weak-coupling edges, producing the flavor eigenstates of the three generations of neutrinos; topological phase differences along different propagation paths correspond to the phenomenon of neutrino oscillation.
 
-Treating an atomic‑nucleus as one aggregate node (mass $M$, charge $Z$), it couples electrically to surrounding electron‑nodes (phase‑rings). Electrons form phase‑standing‑wave orbits around nuclei. Orbital‑radius emerges as Bohr‑radius from equilibrium between phase‑stress $S_{\theta}$ and geometric‑stress $S_{g}$.
+#### Phenomena Explained at This Stage:
 
-**Electron energy‑levels: standing‑wave eigen‑modes of outer‑shell grids**  
-Outer‑shell hexagonal‑grids surrounding atomic‑nuclei are not flat homogeneous‑sheets but closed polyhedral‑grids centered on atomic‑nuclei, analogous to honeycomb‑meshes on spherical‑surfaces. Electron standing‑waves correspond to eigen‑vibrational‑modes on these grids. Different nuclear‑node‑counts $N_{\mathrm{nuc}}$ produce distinct outer‑shell‑grid topologies:
+- The difference between protons and neutrons: different arrangements of triangular rings (uud vs udd);
+- Why the electron has charge, mass, and spin: phase stress, strain coupling, and chiral topology of the hexagonal ring standing wave;
+- Why the neutrino is extremely light, chargeless, and difficult to detect: open-chain/soliton configuration, not participating in closed strain loops;
+- Why the proton is slightly lighter than the neutron: the neutron has an extra down quark vibration mode contribution.
 
-- Hydrogen ($Z=1$): cubic outer‑shell‑grid (8 vertices), standing‑wave‑modes covering six faces.
-- Helium ($Z=2$): regular‑dodecahedral outer‑shell‑grid (20 vertices), standing‑wave‑modes covering twelve faces.
-- Lithium ($Z=3$): truncated‑icosahedral outer‑shell‑grid (60 vertices), standing‑wave‑modes covering twelve pentagonal and twenty‑hexagonal faces.
+---
 
-Standing‑waves on spherical‑grids possess discrete frequencies just like guitar‑strings. These modes feature radial and angular nodal‑planes:
+### 4.4 Atoms: The Combination of Nucleus and Electron Cloud
 
-- K‑shell ($n=1$): ground‑state mode without radial nodal‑planes, lowest‑frequency.
-- L‑shell ($n=2$): first‑excited‑state with one radial nodal‑plane, higher‑frequency.
-- M‑shell ($n=3$): second‑excited‑state with two radial nodal‑planes, further‑increased frequency.
+The atomic nucleus (a node cluster of protons and neutrons) couples with the shell-layer hexagonal grid (the supporting structure of electron standing waves) through radial edges, forming the "atom."
 
-Energies follow approximate relation $E_{n}\propto 1/n^{2}$, reproducing Rydberg‑formula for hydrogen‑spectra purely as geometric consequence of spherical‑grid standing‑waves, without solving the Schrödinger‑equation.
+#### Geometric Network of the Nucleus (Multi-Nucleon Assembly):
 
-Angular nodal‑planes correspond to orbital‑types:
+Nucleons (protons and neutrons) themselves are three-dimensional fan-blade topologies—three quark rings symmetrically distributed around a central node in non-coplanar fashion. When multiple nucleons gather to form a nucleus, they connect to each other by sharing peripheral nodes or strong-force edges, forming a nested symmetric geometric network:
 
-- s‑orbital: fully‑symmetric mode without angular nodal‑planes.
-- p‑orbital: dipole‑mode possessing one angular nodal‑plane (phase‑flip around one axis).
-- d‑orbital: quadrupole‑mode possessing two angular nodal‑planes.
-- f‑orbital: octupole‑mode possessing three angular nodal‑planes.
+- **Deuteron (2 nucleons)**: two nucleon node clusters connected by sharing a strong-force edge, forming a symmetric dual-nucleus structure;
+- **Helium nucleus (4 nucleons)**: four nucleon node clusters connected by sharing nodes, forming an icosahedral structure of extremely high geometric symmetry, corresponding to the stability of helium-4;
+- **Heavy nuclei (e.g., iron, uranium)**: large numbers of nucleon node clusters stacked in a fractal manner, with each layer satisfying the constraint of "global phase sum zero."
 
-These modes correspond exactly to angular‑quantum‑number $l$ in standard‑physics but expressed in geometric‑language. As nuclear‑charge $Z$ increases, outer‑shell‑grids expand sequentially; whenever new nuclear‑nodes complete fuller polyhedral‑closures, frequency‑spectra exhibit jumps or stable‑valleys, giving rise to ionization‑energy‑peaks and noble‑gas stable‑configurations of the periodic‑table.
+**Key constraint**: the phase sum of any closed loop must be zero (the extension of "color confinement" to the nuclear scale).
 
-|Concept from standard‑model|Correspondence within this framework|
-|---|---|
-|Principal quantum‑number $n$|Radial nodal‑planes of standing‑waves on outer‑shell‑grids|
-|Azimuthal quantum‑number $l$|Angular‑nodal‑plane symmetry of outer‑shell‑grid standing‑waves|
-|Magnetic quantum‑number $m$|Spatial‑orientation of standing‑wave‑modes within three‑dimensional‑space|
-|Energy‑level spacing $\propto 1/n^{2}$|Eigen‑frequency‑spectrum for spherical‑grid standing‑waves|
-|Ionization‑energy periodic‑trends|Sequential‑expansion of outer‑shell‑grid‑topology versus increasing $Z$|
-|Electron‑cloud probability‑density distribution|Vibration‑amplitude‑distribution of standing‑waves across grid‑nodes|
+#### Coupling with the "Phase-Geometric Dual-Stress Network":
 
-Therefore quantization of electron‑energy‑levels is not an artificially‑imposed physical‑law but natural discreteness of standing‑wave‑frequencies on closed spherical‑grids. This yields a geometric‑answer to the question: "Why can electrons only occupy discrete orbits?".
+- **Phase stress drives intranuclear structure**: within triangular rings, the phase difference remains $120^\circ$; between rings, phase differences are determined by the phase gradient of shared nodes. External electric fields affect the intranuclear phase distribution, manifesting as polarization response;
+- **Geometric stress determines nuclear size and shape**: edge length $L_{ij}$ is determined by geometric stress $S_g$—the strong interaction is equivalent to "tension on edges," keeping the nuclear radius at approximately $1.2A^{1/3}$ fm;
+- **Cross terms produce nuclear shell structure**: under the joint action of phase and geometric stress, node density exhibits periodic undulations with radius; the stable standing-wave modes correspond to the magic numbers of nuclei (2, 8, 20, 28, 50, 82, 126)—the emergence of nuclear shell structure.
 
-Phenomena explainable in this subsection:
+Total stress function (covering from subnuclear to nuclear scales):
 
-- Stability of atomic‑nuclei: topological‑constraint requiring zero‑sum phase for closed‑loops.
-- Periodic‑table of elements: increasing $Z$ → changing outer‑shell‑grid‑topology → distinct electron standing‑wave‑modes.
-- Atomic‑radii: circum‑sphere‑radii of outer‑shell hexagonal‑grids.
-- Spectral‑lines: transitions of electron standing‑waves between different orbital‑modes.
+$$S_{\text{total}} = \alpha S_\theta + \beta S_g + \gamma S_{\text{hadron}}$$
 
-### 4.5 Molecules: atoms sharing outer‑shell grids
+- $S_\theta$: squared phase differences of nodes (electromagnetic force + quark color constraint);
+- $S_g$: squared edge length deviations (gravity + nuclear tension);
+- $S_{\text{hadron}}$: phase sum deviations of triangular rings (ensuring colorlessness).
 
-When two atoms approach each‑other, their outer‑shell hexagonal‑grids couple through edge‑sharing and form molecules.
+#### From Nucleus to Atom—Connecting Electromagnetic Stress:
+
+- The nuclear structure, as a whole node (mass $M$, charge $Z$), couples with surrounding electron nodes (phase rings) through electromagnetic stress;
+- Electron nodes surround the nuclear node, forming phase standing-wave orbits (atomic orbitals);
+- The orbital radius is determined by the balance between phase stress $S_\theta$ and geometric stress $S_g$—this is exactly the emergent version of the Bohr radius.
+
+#### Electron Energy Levels: Standing-Wave Eigenmodes on the Shell-Layer Grid
+
+The outer shell-layer hexagonal grid surrounding the nucleus is not a uniform flat plate but a closed polyhedral grid centered on the nucleus with specific symmetry—similar to a "honeycomb grid on a sphere." The electron's standing-wave modes are precisely the eigenvibration modes of this grid.
+
+Different nuclear node counts $N_{\text{nucleus}}$ correspond to different shell-layer grid topologies:
+
+- Hydrogen ($Z = 1$): the shell-layer grid is a cube (8 vertices), with standing-wave modes covering 6 faces;
+- Helium ($Z = 2$): the shell-layer grid is a regular dodecahedron (20 vertices), with standing-wave modes covering 12 faces;
+- Lithium ($Z = 3$): theedge‑sharing and form molecules.
 
 **Covalent‑bonds = edge‑sharing between outer‑shell‑grids**  
 Condition for edge‑sharing: phase‑matching on shared‑edges (zero phase‑difference across shared‑edge).  
@@ -433,7 +456,7 @@ Only when all macro‑conditions hold simultaneously do micro‑resonance‑even
 2. Former boundary‑edges are internalized and transformed into intra‑nuclear‑edges.
 3. Merge two atomic‑nuclear‑node‑sets plus shared‑grid‑nodes into one larger node‑cluster.
 4. Output: deuterium‑framework.
-5. Iterate: hydrogen → deuterium → helium‑3 → helium‑4 (tetrahedral‑structure) → carbon → oxygen → … → iron.
+5. Iterate: hydrogen → deuterium → helium‑3 → helium‑4 → carbon → oxygen → … → iron.
 
 **Energy‑release**  
 Every internalization‑step reduces total‑network‑stress $S_{\mathrm{total}}$. Surplus stress‑energy radiates outward in form of vibrational‑waves: fusion‑energy. Iron represents termination‑point: ratio $R=\sigma_{\mathrm{inner}}/\sigma_{\mathrm{outer}}$ for iron‑atomic‑nuclei reaches global‑minimum and its network configuration achieves maximum‑stability.
