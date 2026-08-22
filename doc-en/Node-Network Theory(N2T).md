@@ -1,7 +1,7 @@
 ---
 author: Cunzhang
 date: 2026-08-09
-update: 2026-08-15
+update: 2026-08-22
 license: CC BY-SA 4.0
 repository: https://github.com/dao-n2t-lab/node-network-theory
 ---
