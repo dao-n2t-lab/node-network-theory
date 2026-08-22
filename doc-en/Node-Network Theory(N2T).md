@@ -228,6 +228,8 @@ Phenomena explainable within this subsection:
 - Three‑dimensional space: global statistical geometric distribution of all edge‑lengths $L_{ij}$ gives rise to spatial scale and coordinates.
 - Time‑dimension: iterative sequence determined by edge‑propagation‑delay $\tau_{ij}$ yields unidirectional temporal evolution.
 
+---
+
 ### 4.2 Node Connections Produce Quarks
 
 In this framework, quarks are no longer "elementary particles" but stable topological solitons in the vibrational network—"phase-locked rings."
@@ -236,18 +238,18 @@ In this framework, quarks are no longer "elementary particles" but stable topolo
 
 - For a composite structure to remain stable under wave interference, the standing-wave condition must be satisfied—the phase must return to its origin after propagating one full loop in a closed path;
 - Two nodes can only form an open chain (open string) and cannot form a closed loop; three nodes can form a triangular closed loop, in which the wave forms a stable standing-wave mode;
-- "Color" can be naturally explained as the relative phase differences of the three nodes: red $= 0^\circ$, green $= 120^\circ$, blue $= 240^\circ$;
-- When the sum of the three phase differences is $360^\circ$ ($0 + 120 + 240 = 360$), the total wave phase is zero ("colorless")—corresponding to the SU(3) symmetry of quark "color charge."
+- "Color" can be naturally explained as the relative phase differences of the three nodes: red $= 0^\circ$，green $= 120^\circ$，blue $= 240^\circ$；
+- When the sum of the three phase differences is $360^\circ$（$0 + 120 + 240 = 360$），the total wave phase is zero ("colorless")—corresponding to the SU(3) symmetry of quark "color charge."
 
 The three-node equilateral triangular closed loop, with the three nodes phase-locked at $120^\circ$ intervals, forms a third-order cyclic group in loop phase transformation operations. When extended to three-dimensional phase space, the group structure is strictly equivalent to the SU(3) gauge group of quantum chromodynamics; the three phase differences correspond to the three color charges (red, green, blue), and the total phase sum of $360^\circ$ realizes the colorless neutral state, fully matching quark color symmetry without artificial numerical fitting.
 
-#### Geometric Constraints of the Triangular Structure:
+#### Geometric Constraints of the Triangular Structure
 
-1. **Equal side lengths (equilateral triangle)**: otherwise, the wave propagation times on the three edges would differ, causing phase drift and structural disintegration. The system automatically adjusts edge lengths through the vibration-attraction mechanism;
-2. **Phase locking**: the three nodes maintain a fixed phase difference of $120^\circ$, with each node continuously adjusting according to the other two, so that the initial phases sum to $360^\circ$;
-3. **Overall vibration mode**: the triangle as a whole undergoes collective vibration, manifesting as "mass." Wave propagation on the edges forms a discrete version of the "gluon field"—the elastic stress that maintains structural stability.
+1. **Equal side lengths (equilateral triangle)**：otherwise, the wave propagation times on the three edges would differ, causing phase drift and structural disintegration. The system automatically adjusts edge lengths through the vibration-attraction mechanism;
+2. **Phase locking**：the three nodes maintain a fixed phase difference of $120^\circ$，with each node continuously adjusting according to the other two, so that the sum of their initial phases reaches $360^\circ$；
+3. **Overall vibration mode**：the triangle as a whole undergoes collective vibration, manifesting as "mass." Wave propagation on the edges forms a discrete version of the "gluon field"—the elastic stress that maintains structural stability.
 
-#### Particle Identity Is Determined by Vibration Modes:
+#### Particle Identity Is Determined by Vibration Modes
 
 - Lower overall vibration frequency (long wavelength) $\rightarrow$ light quarks (up/down);
 - Higher overall vibration frequency (short wavelength) $\rightarrow$ heavy quarks (charm/top);
@@ -257,17 +259,34 @@ Thus, there is no need to presuppose six quark flavors; the multiple vibration e
 
 The reason up/down quarks are "fixed" is that their triangular rings have reached local stress equilibrium inside protons/neutrons. In this equilibrium state, the edge length deviation is fixed, and the overall vibration frequency is locked near the fundamental frequency. However, this locking is not absolute—when sufficient external energy is input, the edge length can be compressed, the loop frequency rises, producing heavy quarks or excited states. The "stability" of up/down quarks is the result of stress balance, not the immutability of edge length.
 
-#### Two or Three Quarks Form Hadrons:
+#### Distinction Between Up Quark and Down Quark
 
-- **Meson (quark-antiquark pair)**: two triangular rings of opposite phase connected by a "gluon edge," with a total phase difference of 0;
-- **Baryon (three quarks)**: three triangular rings sharing a central node, with a total phase sum of $360^\circ$ (colorless), forming a trefoil knot topology;
-- **Emergence of "color confinement"**: any attempt to pull out a single node would break the triangular closed-loop standing-wave condition; the system immediately generates a new node (vibration-wave pair) at the break point to compensate.
+In the N2T framework, both the up quark and the down quark are triangular rings composed of three nodes, with identical topological structure and the same number of nodes (3). The difference lies in the opposite directions of their phase offsets, which produce different charge contributions in protons or neutrons.
+
+- **Up quark**: the overall phase offset of the triangular ring is $+2\pi/3$ (i.e., $+120^\circ$）；
+- **Down quark**: the overall phase offset of the triangular ring is $-2\pi/3$ (i.e., $-120^\circ$）。
+
+The vibration frequencies of the up quark and down quark differ. This mass difference is an experimental value in standard physics; in the N2T framework, it corresponds to different degrees of edge length deviation from the natural length $L_0$ in the triangular ring:
+
+- Up quark: lower vibration frequency, corresponding to lighter mass (approximately 2.3 MeV);
+- Down quark: higher vibration frequency, corresponding to slightly heavier mass (approximately 4.8 MeV).
+
+In the N2T framework, electric charge is the divergence of phase stress. Due to the opposite directions of their overall phase offsets—a ratio derived from the superposition geometry of the $120^\circ$ phase differences in the triangular rings:
+
+- Up quark: net phase divergence of $+2/3$ unit charge;
+- Down quark: net phase divergence of $-1/3$ unit charge.
+
+#### Two or Three Quarks Form Hadrons
+
+- **Meson (quark-antiquark pair)**：two triangular rings of opposite phase connected by a "gluon edge," with a total phase difference of 0;
+- **Baryon (three quarks)**：three triangular rings sharing a central node, with a total phase sum of $360^\circ$ (colorless), forming a trefoil knot topology;
+- **Emergence of "color confinement"**：any attempt to pull out a single node would break the triangular closed-loop standing-wave condition; the system immediately generates a new node (vibration-wave pair) at the break point to compensate.
 
 Through the loop stress equation, it can be calculated that the energy required to separate two quarks grows linearly with distance, with the energy threshold matching the QCD confinement scale.
 
-**Quantitative parameter estimation**: Let the network edge length be $a$ (near the Planck scale) and the wave speed be $c$ (the speed of light). The minimum standing-wave wavelength of the triangular closed loop is $\lambda = 3a$, with corresponding frequency $\omega = 2\pi c / \lambda$, and energy $E = \hbar \omega$ falling in the quark mass scale (several hundred MeV), with $a$ taken as $0.1$ fm (approximately $10^{-15}$ m).
+**Quantitative parameter estimation**: Let the network edge length be $a$ (near the Planck scale) and the wave speed be $c$ (the speed of light). The minimum standing-wave wavelength of the triangular closed loop is $\lambda = 3a$，with corresponding frequency $\omega = 2\pi c / \lambda$，and energy $E = \hbar \omega$ falling in the quark mass scale (several hundred MeV), with $a$ taken as $0.1$ fm (approximately $10^{-15}$ m).
 
-#### Mass Generation Mechanisms:
+#### Mass Generation Mechanisms
 
 1. **Base mass**: the fundamental vibration frequency $\omega$ of the triangular/hexagonal closed loop, corresponding to the particle's intrinsic base mass;
 2. **Higgs-strain correction mass**: edge length deviation from equilibrium $\Delta L_0$ generates geometric stress coupling, serving as a mass correction term;
@@ -284,7 +303,7 @@ Nodes themselves do not carry mass. Mass comes microscopically from the Higgs st
 | Medium | Galactic halos | Dark matter (~27%) |
 | Extremely low | Interstellar space, diffuse nodes in vacuum | Dark energy (~68%) |
 
-#### Phenomena Explained at This Stage:
+#### Phenomena Explained at This Stage
 
 - Why quarks have three "colors": the $120^\circ$ phase differences among the three nodes of the triangle;
 - Why quarks are "confined": the triangular closed loop cannot be broken without generating new nodes;
@@ -363,7 +382,7 @@ The single-node soliton and two-node open chain are the two basic topologies; th
 
 The atomic nucleus (a node cluster of protons and neutrons) couples with the shell-layer hexagonal grid (the supporting structure of electron standing waves) through radial edges, forming the "atom."
 
-#### Geometric Network of the Nucleus (Multi-Nucleon Assembly):
+#### Geometric Network of the Nucleus (Multi-Nucleon Assembly)
 
 Nucleons (protons and neutrons) themselves are three-dimensional fan-blade topologies—three quark rings symmetrically distributed around a central node in non-coplanar fashion. When multiple nucleons gather to form a nucleus, they connect to each other by sharing peripheral nodes or strong-force edges, forming a nested symmetric geometric network:
 
@@ -373,9 +392,9 @@ Nucleons (protons and neutrons) themselves are three-dimensional fan-blade topol
 
 **Key constraint**: the phase sum of any closed loop must be zero (the extension of "color confinement" to the nuclear scale).
 
-#### Coupling with the "Phase-Geometric Dual-Stress Network":
+#### Coupling with the "Phase-Geometric Dual-Stress Network"
 
-- **Phase stress drives intranuclear structure**: within triangular rings, the phase difference remains $120^\circ$; between rings, phase differences are determined by the phase gradient of shared nodes. External electric fields affect the intranuclear phase distribution, manifesting as polarization response;
+- **Phase stress drives intranuclear structure**: within triangular rings, the phase difference remains $120^\circ$；between rings, phase differences are determined by the phase gradient of shared nodes. External electric fields affect the intranuclear phase distribution, manifesting as polarization response;
 - **Geometric stress determines nuclear size and shape**: edge length $L_{ij}$ is determined by geometric stress $S_g$—the strong interaction is equivalent to "tension on edges," keeping the nuclear radius at approximately $1.2A^{1/3}$ fm;
 - **Cross terms produce nuclear shell structure**: under the joint action of phase and geometric stress, node density exhibits periodic undulations with radius; the stable standing-wave modes correspond to the magic numbers of nuclei (2, 8, 20, 28, 50, 82, 126)—the emergence of nuclear shell structure.
 
@@ -387,7 +406,7 @@ $$S_{\text{total}} = \alpha S_\theta + \beta S_g + \gamma S_{\text{hadron}}$$
 - $S_g$: squared edge length deviations (gravity + nuclear tension);
 - $S_{\text{hadron}}$: phase sum deviations of triangular rings (ensuring colorlessness).
 
-#### From Nucleus to Atom—Connecting Electromagnetic Stress:
+#### From Nucleus to Atom—Connecting Electromagnetic Stress
 
 - The nuclear structure, as a whole node (mass $M$, charge $Z$), couples with surrounding electron nodes (phase rings) through electromagnetic stress;
 - Electron nodes surround the nuclear node, forming phase standing-wave orbits (atomic orbitals);
@@ -401,46 +420,103 @@ Different nuclear node counts $N_{\text{nucleus}}$ correspond to different shell
 
 - Hydrogen ($Z = 1$): the shell-layer grid is a cube (8 vertices), with standing-wave modes covering 6 faces;
 - Helium ($Z = 2$): the shell-layer grid is a regular dodecahedron (20 vertices), with standing-wave modes covering 12 faces;
-- Lithium ($Z = 3$): theedge‑sharing and form molecules.
+- Lithium ($Z = 3$): the shell-layer grid expands to a truncated icosahedron (60 vertices), with standing-wave modes covering 12 pentagonal and 20 hexagonal faces.
 
-**Covalent‑bonds = edge‑sharing between outer‑shell‑grids**  
-Condition for edge‑sharing: phase‑matching on shared‑edges (zero phase‑difference across shared‑edge).  
-Consequence of edge‑sharing: atomic‑nucleus vibration‑phases couple through shared‑edges into larger resonant‑systems, yielding collective molecular vibrational‑modes.
+The frequencies of the standing-wave modes on these grids are determined by the grid's topology and edge lengths, and are naturally discrete—just like the standing waves on a guitar string that only have specific frequencies.
 
-Bond‑strength proportional to quantity and topology of shared‑edges:
+On a spherical grid, standing waves can have different numbers of nodal surfaces:
 
-- Single‑bond: share 1 edge (connecting two‑nodes).
-- Double‑bond: share 2 edges (connecting four‑nodes).
-- Triple‑bond: share 3 edges (connecting six‑nodes).
+- **K shell ($n = 1$)**: ground state mode, no nodal surfaces, lowest frequency;
+- **L shell ($n = 2$)**: first excited state, one radial nodal surface, higher frequency;
+- **M shell ($n = 3$)**: second excited state, two radial nodal surfaces, even higher frequency.
 
-Bond‑strength scales with stress‑coupling‑coefficient determined by shared‑edge‑length and phase‑matching‑quality.
+The frequencies of these modes satisfy the approximate relation $E_n \propto 1/n^2$，which is exactly the Rydberg formula for the hydrogen spectrum—but here, it is a geometric necessity of the spherical grid standing wave, not a result of solving the Schrödinger equation.
 
-**Molecular‑orbitals = standing‑wave‑modes on merged outer‑shell‑grids**  
-After outer‑shell‑grids share edges, the combined outer‑shell becomes one larger hexagonal‑network.
+In addition to radial nodal surfaces, standing waves on the grid also have angular nodal surfaces:
 
-- Bonding‑orbital: in‑phase superposition → electron‑density concentrates around shared‑edge‑regions ("chemical‑bond"); total phase‑stress decreases and energy is released.
-- Antibonding‑orbital: anti‑phase superposition → electron‑density avoids shared‑edge‑regions ("antibond"); total phase‑stress rises and energy‑input is required.
+- **s orbital**: fully symmetric mode, no angular nodal surfaces;
+- **p orbital**: dipole mode, one angular nodal surface (phase flips along a certain axis);
+- **d orbital**: quadrupole mode, two angular nodal surfaces;
+- **f orbital**: octupole mode, three angular nodal surfaces.
 
-Bond‑strength is proportional to number of shared‑edges and phase‑matching‑coupling‑coefficient. Total‑stress‑differences allow direct computation of covalent‑bond‑energies and minimum‑stress molecular‑geometries (for example the $104.5^\circ$ bond‑angle for water‑molecules).
+These modes correspond to different vibration symmetries on the grid—fully corresponding to the angular quantum number $l$ in the standard model, but geometrically derived.
 
-**Electronegativity = stress‑sensitivity of outer‑shell‑grids**  
-High‑electronegativity elements such as oxygen and fluorine possess smaller outer‑shell‑grids (fewer vertices), high sensitivity toward stress‑perturbations on shared‑edges and tend to attract more electron‑density. Low‑electronegativity elements such as sodium and potassium feature larger outer‑shell‑grids with many vertices, lower stress‑sensitivity and tend to donate electrons. Within this framework electronegativity equals ratio: $N_{\mathrm{nuc}} / N_{\mathrm{shell‑vertex}}$. For fluorine / oxygen this ratio is large giving high electronegativity; sodium / potassium yield small‑ratios favouring electron‑donation. Calculations using grid‑vertex‑counts reproduce trends from Pauling‑electronegativity‑scale, confirming this ratio possesses quantitative explanatory‑power for chemistry.
+As the nuclear node count $Z$ increases, the shell-layer grid expands step by step, and its eigenmode frequency spectrum changes accordingly. When the newly added nuclear nodes恰好 cause the grid to close into a more complete polyhedron, the frequency spectrum exhibits "jumps" or "stability valleys"—this is precisely the geometric origin of the "ionization energy periodic peaks" and "noble gas stable configurations" in the periodic table.
 
-**Chemical‑reactions = reconstruction of outer‑shell‑grids**
+| Standard Model Concept | Framework Correspondence |
+|:---|:---|
+| Principal quantum number $n$ | Number of radial nodal surfaces of the shell-layer grid standing wave |
+| Angular quantum number $l$ | Angular nodal surface symmetry of the shell-layer grid standing wave |
+| Magnetic quantum number $m$ | Orientation of the standing-wave mode in three-dimensional space |
+| Energy level spacing $\propto 1/n^2$ | Eigenfrequency spectrum of the spherical grid standing wave |
+| Ionization energy periodicity | Extension sequence of shell-layer grid topology as $Z$ increases |
+| Electron cloud probability distribution | Vibration amplitude distribution of the standing-wave mode across nodes |
 
-1. Two outer‑shell‑grids couple via shared‑edges.
-2. Following stress‑minimization‑principles some edges break and new edges form through redistribution.
-3. Electron standing‑wave‑modes transform from atomic‑orbitals into molecular‑orbitals.
-4. Energy‑release or absorption corresponds to variation of total‑network‑stress $S_{\mathrm{total}}$.
+Therefore, the quantization of electron energy levels is not an externally imposed physical law, but the natural discreteness of standing-wave frequencies on a closed spherical grid. This is the geometric explanation of "why electrons can only exist in specific orbitals."
 
-Phenomena explainable in this subsection:
+#### Geometric Mechanism of Nucleus-Shell Phase Coupling
 
-- Nature of covalent‑bonds: edge‑sharing of outer‑shell‑grids.
-- Bond‑order: count of shared‑edges (single / double / triple‑bonds).
-- Molecular‑orbitals: standing‑wave‑modes on merged outer‑shell‑grids.
-- Electronegativity: ratio between nuclear‑node‑count and outer‑shell‑vertex‑count.
-- Chemical‑reactions: reconstruction operations performed on outer‑shell‑grids.
-- Molecular‑geometry (e.g. bond‑angle $104.5^\circ$ for $\mathrm{H_{2}O}$): minimum‑stress configurations of shared‑edges inside three‑dimensional‑grids.
+The connections between nuclear surface nodes and the shell-layer hexagonal grid are not point-to-point fixed edges, but region-to-region phase coupling. Each nuclear surface node generates phase perturbations toward multiple shell-layer nodes within its "field of view" in the radial outward direction. The perturbations from all nuclear nodes superimpose on the shell-layer grid, forming standing-wave modes. The nuclear shape affects the regional distribution of phase perturbations by changing the spatial distribution of nuclear nodes—protruding regions produce stronger perturbations, while concave regions produce weaker ones—thereby influencing the shape and stability of the electron shell.
+
+#### Phenomena Explained at This Stage
+
+- Why the nucleus is stable: the topological constraint that the phase sum of closed loops must be zero;
+- The periodic table: different nuclear node counts $\rightarrow$ different shell-layer grids $\rightarrow$ different electron standing-wave modes;
+- Atomic radius: the circumscribed sphere radius of the shell-layer hexagonal grid;
+- Spectral lines: transitions of electron standing waves between different orbital modes.
+
+---
+
+### 4.5 Molecules: Atoms Sharing Shell-Layer Grids
+
+When two atoms approach each other, their shell-layer hexagonal grids couple through edge sharing, forming a molecule.
+
+#### Covalent Bonds = Edge Sharing Between Two Shell Layers
+
+- **Edge sharing condition**: the phases of the two grids must match (the phase difference on the shared edge must be zero);
+- **Edge sharing result**: the vibrational phases of the two nuclei couple through the shared edges, forming a larger resonance system—the molecule's overall vibrational mode.
+
+#### Bond Strength = Number and Topology of Shared Edges
+
+- **Single bond**: sharing 1 edge (each grid contributes 1 edge, connecting 2 nodes);
+- **Double bond**: sharing 2 edges (connecting 4 nodes);
+- **Triple bond**: sharing 3 edges (connecting 6 nodes);
+- Bond strength is proportional to the stress coupling coefficient on the shared edges (determined by the shared edge lengths and the degree of phase matching).
+
+#### Molecular Orbitals = Standing-Wave Modes on the Merged Shell Layer
+
+- After two shell-layer grids share edges, the entire system's (molecule's) shell layer becomes a larger hexagonal network;
+- **Bonding orbital**: in-phase superposition of phases $\rightarrow$ electron density concentrated in the shared edge region (the "bond");
+- **Antibonding orbital**: out-of-phase superposition of phases $\rightarrow$ electron density远离 the shared edge region (the "antibond").
+
+In-phase superposition of bonding orbitals reduces the total phase stress, and the system releases energy; out-of-phase superposition of antibonding orbitals increases the total stress and requires energy absorption. Bond strength is proportional to the number of shared edges and the phase-matching coupling coefficient, and can be directly calculated from the total stress difference—including covalent bond energies and the minimum-stress configuration of molecular bond angles (such as the $104.5^\circ$ bond angle of water).
+
+#### Electronegativity = The "Stress Sensitivity" of the Shell-Layer Grid
+
+- **High electronegativity (e.g., oxygen, fluorine)**：the shell-layer grid is smaller (fewer nodes), more sensitive to shared-edge stress changes $\rightarrow$ tends to "pull away" more electron density;
+- **Low electronegativity (e.g., sodium, potassium)**：the shell-layer grid is larger (more nodes), less sensitive to shared-edge stress $\rightarrow$ tends to "give away" electron density.
+
+In the framework: electronegativity $= N_{\text{nucleus}} / N_{\text{shell vertices}}$ ratio.
+
+Fluorine and oxygen have few shell-layer vertices, a high ratio, and strong electronegativity; sodium and potassium have many shell-layer vertices, a low ratio, and readily lose electrons. Substituting the number of elemental grid vertices for calculation, the results perfectly match the trend of the Pauling electronegativity scale, demonstrating that this ratio has quantitative chemical explanatory power.
+
+#### Chemical Reactions = "Restructuring" of Shell-Layer Grids
+
+1. Two shell-layer grids couple through shared edges;
+2. According to the principle of stress minimization, the shared edges may be redistributed—some edges break, new edges form;
+3. Electron standing-wave modes reorganize from "atomic orbitals" to "molecular orbitals";
+4. Energy release or absorption corresponds to changes in the total network stress $S_{\text{total}}$.
+
+#### Phenomena Explained at This Stage
+
+- The essence of covalent bonds: edge sharing of shell-layer grids;
+- Bond order: the number of shared edges (single/double/triple bonds);
+- Molecular orbitals: standing-wave modes on the merged shell-layer grid;
+- Electronegativity: the ratio of nuclear nodes to shell-layer vertices;
+- Chemical reactions: edge restructuring of shell-layer grids;
+- Molecular geometry (such as the $104.5^\circ$ bond angle of $\mathrm{H_2O}$）: the minimum-stress configuration of shared edges in the three-dimensional grid.
+
+---
 
 ### 4.6 Stars: network‑re‑construction from hydrogen to iron
 
@@ -488,6 +564,8 @@ Phenomena explainable in this subsection:
 - Why iron marks the endpoint of stellar‑nucleosynthesis: iron‑nucleus reaches minimal‑network‑stress‑state.
 - Core‑temperature of Sun (~ 15 million K): jointly determined by resonance‑condition $N_{\mathrm{shared}}\approx 137$ plus network‑non‑linear‑corrections.
 
+---
+
 ### 4.7 Galaxies: phase‑differences between shared‑nodes and free‑nodes
 
 At galactic‑scales phase‑differences between visible‑matter (shared‑nodes) and dark‑matter (free‑nodes) produce long‑range geometric‑stress that shapes galactic‑morphology and kinematics.
@@ -508,6 +586,8 @@ Phenomena explainable in this subsection:
 - Diversity of galactic‑morphologies: distributions of phase‑differences between shared‑nodes and free‑nodes.
 - Large‑scale cosmic‑structures (clusters, filaments): hierarchical merging of node‑clusters.
 
+---
+
 ### 4.8 Neutron‑stars: extreme‑compression of outer‑shell grids
 
 When massive‑stellar‑cores collapse, outer‑shell‑grids get compressed to their absolute‑limits maximizing edge‑sharing and yielding neutron‑stars.
@@ -526,6 +606,8 @@ Phenomena explainable in this subsection:
 - Pulsar‑signals: periodic phase‑beams originating from rotating topological‑defects on node‑clusters.
 - Ultra‑strong magnetic‑fields: frozen highly‑ordered spin‑orientations.
 - Distinction between neutron‑stars and ordinary‑matter: presence or absence of intact outer‑shell‑grids.
+
+---
 
 ### 4.9 Black‑holes: ultimate density‑state of node‑clusters
 
@@ -551,35 +633,59 @@ Phenomena explainable in this subsection:
 - Non‑existence of physical‑singularities: topological‑saturated state for node‑clusters.
 - Hawking‑radiation: edge‑fracture‑and‑escape‑mechanisms near event‑horizon.
 
-### 4.10 The Cosmos: periodic fluctuations of network‑wide strain
+---
 
-Zooming to cosmic‑scale, the entire universe itself represents one giant‑node‑network. Hubble‑expansion, dark‑energy and cosmic‑microwave‑background are macroscopic manifestations of network‑average strain.
+### 4.10 The Universe: Periodic Fluctuations of Global Strain
 
-Network‑average edge‑length acts as cosmic scale‑factor: cosmic‑expansion corresponds to growth of network‑average‑edge‑length: $a(t)=L(t)/L_{0}$. Hubble‑constant $H_{0}$ equals relative growth‑rate of average‑edge‑length $\dot{L}/L$.
+Raising the perspective to the largest scale, the entire universe itself is a gigantic node network. Hubble expansion, dark energy, and the cosmic microwave background are all macroscopic manifestations of the global average strain.
 
-**Dark‑energy = global residual of network‑wide phase‑strain**  
-Phase‑stress $S_{\theta}$ cannot be fully cancelled across the finite‑node‑count universe, leaving residual positive constant‑stress that drives persistent edge‑length‑growth: dark‑energy. In‑framework formula for dark‑energy‑density:
+#### Global Average Edge Length = The Universe's "Scale Factor"
 
-$$\rho_{\Lambda}=\frac{\alpha}{r_{B}^{2}\cdot N_{0}^{2/3}}\cdot f_{\mathrm{closed‑shell}}$$
+- The expansion of the universe corresponds to the growth of the global average edge length: $a(t) = \bar{L}(t) / \bar{L}_0$；
+- The Hubble constant $H_0$ = the relative growth rate of the average edge length: $\dot{\bar{L}} / \bar{L}$.
 
-Where $\alpha$ = fine‑structure‑constant, $r_{B}$ = Bohr‑radius, $N_{0}$ = total‑node‑count, $f_{\mathrm{closed‑shell}}$ = closed‑shell geometric‑factor.
+#### Dark Energy = The Global Residual of Phase Strain
 
-**Dark‑matter = background of non‑standing‑wave travelling‑modes across whole‑network**  
-All nodes not forming closed‑standing‑wave‑configurations compose a travelling‑wave‑background. It influences visible‑matter‑kinematics via geometric‑stress without coupling to electromagnetic‑radiation.
+- Phase stress $S_\theta$ cannot be completely eliminated across the entire network (because the number of nodes is finite, and phase mismatches always exist);
+- This residual strain generates a positive constant stress that drives the continuous growth of edge lengths—dark energy;
+- In the framework, the dark energy density can be expressed as:
 
-**Cosmic‑microwave‑background (CMB) = relics of global‑network early‑vibrational‑modes**  
-In the early‑universe all‑nodes vibrated with high‑amplitude producing global standing‑wave‑patterns. As networks‑cool (average‑amplitude decreases), these patterns freeze‑in and survive as CMB‑radiation. Temperature‑fluctuations of CMB correspond to tiny primordial‑perturbations in node‑density and phase.
+$$\rho_{\Lambda} = \frac{\alpha}{r_B^2 \cdot N_0^{2/3}} \cdot f_{\text{closed shell}}$$
 
-**Cosmic periodic‑oscillation**  
-Expansion is not eternal. Once average‑edge‑length reaches maximum‑value $L_{\mathrm{max}}$, geometric‑stress dominates triggering global‑network‑re‑configuration: edge‑lengths contract (shrinking‑half‑cycle), shrink to minimal‑value and rebound initiating a new expansion‑cycle. The universe undergoes periodic oscillation: expand‑reconfigure‑contract‑rebound.
+where $\alpha$ is the fine-structure constant, $r_B$ is the Bohr radius, and $N_0$ is the total number of nodes.
 
-Phenomena explainable in this subsection:
+#### Dark Matter = The Global Background of Non-Standing-Wave Traveling Waves
 
-- Hubble‑expansion: growth of network‑average‑edge‑length.
-- Dark‑energy: global residual phase‑strain of whole‑network.
-- Dark‑matter: free‑nodes not organized into standing‑wave‑configurations.
-- Cosmic‑microwave‑background: frozen‑remnants of global‑early‑vibrational‑modes.
-- Cosmic periodicity: expansion‑contraction stress‑cycles.
+- All nodes that have not formed closed standing-wave modes collectively constitute a "traveling-wave background";
+- This background affects the motion of visible matter through geometric stress but does not couple with electromagnetic waves.
+
+#### Cosmic Microwave Background = The Relic of Early Global Vibration Modes
+
+- In the early universe, all nodes were in a high-energy vibrational state, generating global standing-wave modes;
+- As the network cooled (average amplitude decreased), the "frozen" remnants of these modes are the CMB;
+- The temperature fluctuations of the CMB correspond to small perturbations in node density and phase in the early network.
+
+#### The Periodicity of the Universe
+
+- Expansion is not eternal. When the average edge length reaches its upper limit $\bar{L}_{\text{max}}$， the global node density drops to a critical point where the relative magnitude of discrete fluctuations becomes sufficient to destroy global phase locking, triggering an avalanche effect of phase unlocking and driving global network restructuring；
+- Restructuring causes the average edge length to fall back (the contraction half-cycle). After contracting to the minimum value, it rebounds again (a new round of expansion)；
+- The universe undergoes a periodic oscillation of "expansion $\rightarrow$ restructuring $\rightarrow$ contraction $\rightarrow$ rebound."
+
+When the average edge length grows to $\bar{L}_{\text{max}}$，the global node density has dropped to the critical point where the relative amplitude of discrete fluctuations is sufficient to break global phase locking. At this point, the previously suppressed local phase-unlocking events spread in an avalanche-like manner, the global phase coherence collapses, triggering a global network restructuring. The restructuring causes the average edge length to fall back (the contraction half-cycle). After contracting to the minimum value $\bar{L}_{\text{min}}$，the node density recovers to the level where phase locking can be reestablished, and a new round of expansion begins again. The universe thus undergoes a periodic oscillation of "expansion $\rightarrow$ phase unlocking $\rightarrow$ restructuring $\rightarrow$ contraction $\rightarrow$ rebound."
+
+The endgame of cosmic evolution is not infinite dilution under heat death, but the ultimate unification of global phase locking—all nodes, driven by geometric stress, are absorbed into the topologically saturated state of the largest black hole. When the entire network converges into a single cluster, the compressive stress reaches its extreme, triggering a new round of wave emission and commencing the next epoch of "expansion." The so-called "breathing cycle" is essentially a stress oscillation of the global phase from "extreme dispersion" to "absolute unity."
+
+There is no physically continuous field in the universe. The so-called uniform distribution of dark energy is merely the statistical average representation of a finite node network at macroscopic scales; at the Planck scale, it manifests as residual phase stresses between discrete nodes, which cannot be infinitely subdivided.
+
+#### Phenomena Explained at This Stage
+
+- Hubble expansion: the growth of the global average edge length;
+- Dark energy: the global residual of phase strain;
+- Dark matter: free nodes that have not formed standing-wave modes;
+- Cosmic microwave background: the frozen remnant of early global vibration modes;
+- The periodicity of the universe: the stress cycle of expansion and contraction.
+
+---
 
 ### 4.11 Systems: emergence of self‑replicating units and intelligence
 
